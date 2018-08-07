@@ -1,0 +1,50 @@
+[
+  {
+    "state": {
+      "name": "hardcoreore:ore_zinc"
+    },
+    "weight": 30,
+    "widthMin": 2,
+    "widthMax": 4,
+    "countMin": 4,
+    "countMax": 8,
+    "yieldMin": 4,
+    "yieldMax": 5
+  },  
+  {
+    "state": {
+      "name": "hardcoreore:ore_osmium"
+    },
+    "weight": 50,
+    "widthMin": 3,
+    "widthMax": 5,
+    "countMin": 8,
+    "countMax": 12,
+    "yieldMin": 16,
+    "yieldMax": 20
+  },
+  {
+    "state": {
+      "name": "hardcoreore:ore_titanium"
+    },
+    "weight": 5,
+    "widthMin": 2,
+    "widthMax": 3,
+    "countMin": 2,
+    "countMax": 4,
+    "yieldMin": 4,
+    "yieldMax": 5
+  },
+  {
+    "state": {
+      "name": "hardcoreore:ore_uranium"
+    },
+    "weight": 5,
+    "widthMin": 2,
+    "widthMax": 3,
+    "countMin": 2,
+    "countMax": 4,
+    "yieldMin": 4,
+    "yieldMax": 5
+  }
+]

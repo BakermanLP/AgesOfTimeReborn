@@ -1,0 +1,21 @@
+{
+  "config_version": {
+    "id": "__default",
+    "version": 0
+  },
+  "dimensions": [
+    {
+      "dim": 10,
+      "dimensiontype": {
+        "id": 10,
+        "name": "Mining",
+        "suffix": "_dim10",
+        "keeploaded": false,
+        "worldprovider": "WorldProviderSurfaceJED"
+      },
+        "worldinfo_onetime": {
+        "generatorName": "BIOMESOP"
+      }
+    }
+  ]
+}
