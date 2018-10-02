@@ -1,0 +1,29 @@
+[
+  {
+    "enabled": true,
+    "state": {
+      "name": "immersiveengineering:ore",
+      "properties": {
+      "type": "uranium"
+      }
+    },
+    "dimensionFilter": "whitelist",
+    "dimensionSelector": "id",
+    "dimension": [ 1000, 0 ],
+    "biomeFilter": "whitelist",
+    "biomeSelector": "id",
+    "biome": [ "*" ],
+    "weight": 10,
+    "widthMin": 2,
+    "widthMax": 3,
+    "heightMin": 0,
+    "heightMax": 2,
+    "countMin": 2,
+    "countMax": 4,
+    "yieldMin": 4,
+    "yieldMax": 5,
+    "group": "",
+    "groupOrder": 0,
+    "extractionCooldownScale": 1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "enabled": true,
+    "state": {
+      "name": "mekanism:oreblock",
+      "properties": {
+      "type": "osmium"
+      }
+    },
+    "dimensionFilter": "whitelist",
+    "dimensionSelector": "id",
+    "dimension": [ 1000, 0 ],
+    "biomeFilter": "whitelist",
+    "biomeSelector": "id",
+    "biome": [ "*" ],
+    "weight": 50,
+    "widthMin": 3,
+    "widthMax": 5,
+    "heightMin": 0,
+    "heightMax": 2,
+    "countMin": 8,
+    "countMax": 12,
+    "yieldMin": 16,
+    "yieldMax": 20,
+    "group": "",
+    "groupOrder": 0,
+    "extractionCooldownScale": 1
+  }
+]

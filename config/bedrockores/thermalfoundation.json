@@ -1,98 +1,253 @@
 [
   {
+    "enabled": true,
     "state": {
-      "name": "thermalfoundation:ore:0"
+      "name": "thermalfoundation:ore",
+      "properties": {
+      "type": "copper"
+      }
     },
+    "dimensionFilter": "whitelist",
+    "dimensionSelector": "id",
+    "dimension": [ 1000, 0 ],
+    "biomeFilter": "whitelist",
+    "biomeSelector": "id",
+    "biome": [ "*" ],
     "weight": 200,
     "widthMin": 4,
     "widthMax": 6,
+    "heightMin": 0,
+    "heightMax": 2,
     "countMin": 10,
     "countMax": 16,
     "yieldMin": 32,
-    "yieldMax": 40
+    "yieldMax": 40,
+    "group": "",
+    "groupOrder": 0,
+    "extractionCooldownScale": 1
   },
+
   {
+    "enabled": true,
     "state": {
-      "name": "thermalfoundation:ore:1"
+      "name": "thermalfoundation:ore",
+      "properties": {
+      "type": "tin"
+      }
     },
+    "dimensionFilter": "whitelist",
+    "dimensionSelector": "id",
+    "dimension": [ 1000, 0 ],
+    "biomeFilter": "whitelist",
+    "biomeSelector": "id",
+    "biome": [ "*" ],
     "weight": 150,
     "widthMin": 4,
     "widthMax": 6,
+    "heightMin": 0,
+    "heightMax": 2,
     "countMin": 10,
     "countMax": 16,
     "yieldMin": 28,
-    "yieldMax": 35
+    "yieldMax": 35,
+    "group": "",
+    "groupOrder": 0,
+    "extractionCooldownScale": 1
   },
+
   {
+    "enabled": true,
     "state": {
-      "name": "thermalfoundation:ore:2"
+      "name": "thermalfoundation:ore",
+      "properties": {
+      "type": "silver"
+      }
     },
+    "dimensionFilter": "whitelist",
+    "dimensionSelector": "id",
+    "dimension": [ 1000, 0 ],
+    "biomeFilter": "whitelist",
+    "biomeSelector": "id",
+    "biome": [ "*" ],
     "weight": 40,
     "widthMin": 3,
     "widthMax": 5,
+    "heightMin": 0,
+    "heightMax": 2,
     "countMin": 8,
     "countMax": 12,
     "yieldMin": 16,
-    "yieldMax": 20
+    "yieldMax": 20,
+    "group": "",
+    "groupOrder": 0,
+    "extractionCooldownScale": 1
   },
+
   {
+    "enabled": true,
     "state": {
-      "name": "thermalfoundation:ore:3"
+      "name": "thermalfoundation:ore",
+      "properties": {
+      "type": "lead"
+      }
     },
+    "dimensionFilter": "whitelist",
+    "dimensionSelector": "id",
+    "dimension": [ 1000, 0 ],
+    "biomeFilter": "whitelist",
+    "biomeSelector": "id",
+    "biome": [ "*" ],
     "weight": 50,
     "widthMin": 3,
     "widthMax": 5,
+    "heightMin": 0,
+    "heightMax": 2,
     "countMin": 8,
     "countMax": 12,
     "yieldMin": 16,
-    "yieldMax": 20
+    "yieldMax": 20,
+    "group": "",
+    "groupOrder": 0,
+    "extractionCooldownScale": 1
   },
+
   {
+    "enabled": true,
     "state": {
-      "name": "thermalfoundation:ore:4"
+      "name": "thermalfoundation:ore",
+      "properties": {
+      "type": "aluminum"
+      }
     },
+    "dimensionFilter": "whitelist",
+    "dimensionSelector": "id",
+    "dimension": [ 1000, 0 ],
+    "biomeFilter": "whitelist",
+    "biomeSelector": "id",
+    "biome": [ "*" ],
     "weight": 90,
     "widthMin": 3,
     "widthMax": 5,
+    "heightMin": 0,
+    "heightMax": 2,
     "countMin": 8,
     "countMax": 12,
     "yieldMin": 32,
-    "yieldMax": 40
+    "yieldMax": 40,
+    "group": "",
+    "groupOrder": 0,
+    "extractionCooldownScale": 1
   },
+
   {
+    "enabled": true,
     "state": {
-      "name": "thermalfoundation:ore:5"
+      "name": "thermalfoundation:ore",
+      "properties": {
+      "type": "nickel"
+      }
     },
+    "dimensionFilter": "whitelist",
+    "dimensionSelector": "id",
+    "dimension": [ 1000, 0 ],
+    "biomeFilter": "whitelist",
+    "biomeSelector": "id",
+    "biome": [ "*" ],
     "weight": 70,
     "widthMin": 2,
     "widthMax": 4,
+    "heightMin": 0,
+    "heightMax": 2,
     "countMin": 4,
     "countMax": 8,
     "yieldMin": 4,
-    "yieldMax": 5
+    "yieldMax": 5,
+    "group": "",
+    "groupOrder": 0,
+    "extractionCooldownScale": 1
   },
+
   {
+    "enabled": true,
     "state": {
-      "name": "thermalfoundation:ore:6"
+      "name": "thermalfoundation:ore",
+      "properties": {
+      "type": "platinum"
+      }
     },
+    "dimensionFilter": "whitelist",
+    "dimensionSelector": "id",
+    "dimension": [ 1000, 0 ],
+    "biomeFilter": "whitelist",
+    "biomeSelector": "id",
+    "biome": [ "*" ],
     "weight": 30,
     "widthMin": 2,
     "widthMax": 4,
+    "heightMin": 0,
+    "heightMax": 2,
     "countMin": 4,
     "countMax": 8,
     "yieldMin": 4,
-    "yieldMax": 5
+    "yieldMax": 5,
+    "group": "",
+    "groupOrder": 0,
+    "extractionCooldownScale": 1
   },
+
   {
+    "enabled": true,
     "state": {
-      "name": "thermalfoundation:ore:7"
+      "name": "thermalfoundation:ore",
+      "properties": {
+      "type": "iridium"
+      }
     },
+    "dimensionFilter": "whitelist",
+    "dimensionSelector": "id",
+    "dimension": [ 1000, 0 ],
+    "biomeFilter": "whitelist",
+    "biomeSelector": "id",
+    "biome": [ "*" ],
     "weight": 5,
     "widthMin": 2,
     "widthMax": 3,
+    "heightMin": 0,
+    "heightMax": 2,
     "countMin": 2,
     "countMax": 4,
     "yieldMin": 4,
-    "yieldMax": 5
+    "yieldMax": 5,
+    "group": "",
+    "groupOrder": 0,
+    "extractionCooldownScale": 1
+  },
+
+  {
+    "enabled": true,
+    "state": {
+      "name": "thermalfoundation:ore",
+      "properties": {
+      "type": "mithril"
+      }
+    },
+    "dimensionFilter": "whitelist",
+    "dimensionSelector": "id",
+    "dimension": [ 1000, 0 ],
+    "biomeFilter": "whitelist",
+    "biomeSelector": "id",
+    "biome": [ "*" ],
+    "weight": 4,
+    "widthMin": 1,
+    "widthMax": 2,
+    "heightMin": 0,
+    "heightMax": 2,
+    "countMin": 2,
+    "countMax": 3,
+    "yieldMin": 3,
+    "yieldMax": 4,
+    "group": "",
+    "groupOrder": 0,
+    "extractionCooldownScale": 1
   }
 ]

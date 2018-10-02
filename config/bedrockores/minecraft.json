@@ -1,80 +1,157 @@
 [
   {
     "comment": [
-      "Coal is disabled by default because, frankly, it's kinda abundant anyway."
+        "Coal is disabled by default because, frankly, it's kinda abundant anyway."
     ],
     "enabled": false,
     "state": {
       "name": "minecraft:coal_ore"
     },
+    "dimensionFilter": "whitelist",
+    "dimensionSelector": "id",
+    "dimension": [ 1000, 0 ],
+    "biomeFilter": "whitelist",
+    "biomeSelector": "id",
+    "biome": [ "*" ],
     "weight": 0,
-    "widthMin": 5,
-    "widthMax": 7,
+    "widthMin": 2,
+    "widthMax": 3,
+    "heightMin": 0,
+    "heightMax": 2,
     "countMin": 12,
     "countMax": 20,
     "yieldMin": 340,
-    "yieldMax": 425
+    "yieldMax": 425,
+    "group": "",
+    "groupOrder": 0,
+    "extractionCooldownScale": 1
   },
+    
   {
+    "enabled": true,
     "state": {
       "name": "minecraft:iron_ore"
     },
+    "dimensionFilter": "whitelist",
+    "dimensionSelector": "id",
+    "dimension": [ 1000, 0 ],
+    "biomeFilter": "whitelist",
+    "biomeSelector": "id",
+    "biome": [ "*" ],
     "weight": 250,
     "widthMin": 4,
     "widthMax": 6,
+    "heightMin": 0,
+    "heightMax": 2,
     "countMin": 10,
     "countMax": 16,
     "yieldMin": 90,
-    "yieldMax": 110
+    "yieldMax": 110,
+    "group": "",
+    "groupOrder": 0,
+    "extractionCooldownScale": 1
   },
+    
   {
+    "enabled": true,
     "state": {
       "name": "minecraft:gold_ore"
     },
+    "dimensionFilter": "whitelist",
+    "dimensionSelector": "id",
+    "dimension": [ 1000, 0 ],
+    "biomeFilter": "whitelist",
+    "biomeSelector": "id",
+    "biome": [ "*" ],
     "weight": 100,
     "widthMin": 3,
     "widthMax": 5,
+    "heightMin": 0,
+    "heightMax": 2,
     "countMin": 8,
     "countMax": 12,
     "yieldMin": 9,
-    "yieldMax": 11
+    "yieldMax": 11,
+    "group": "",
+    "groupOrder": 0,
+    "extractionCooldownScale": 1
   },
+    
   {
+    "enabled": true,
     "state": {
       "name": "minecraft:diamond_ore"
     },
+    "dimensionFilter": "whitelist",
+    "dimensionSelector": "id",
+    "dimension": [ 1000, 0 ],
+    "biomeFilter": "whitelist",
+    "biomeSelector": "id",
+    "biome": [ "*" ],
     "weight": 50,
     "widthMin": 2,
     "widthMax": 4,
+    "heightMin": 0,
+    "heightMax": 2,
     "countMin": 4,
     "countMax": 8,
     "yieldMin": 4,
-    "yieldMax": 5
+    "yieldMax": 5,
+    "group": "",
+    "groupOrder": 0,
+    "extractionCooldownScale": 1
   },
+
   {
+    "enabled": true,
     "state": {
       "name": "minecraft:redstone_ore"
     },
+    "dimensionFilter": "whitelist",
+    "dimensionSelector": "id",
+    "dimension": [ 1000, 0 ],
+    "biomeFilter": "whitelist",
+    "biomeSelector": "id",
+    "biome": [ "*" ],
     "weight": 250,
     "widthMin": 3,
     "widthMax": 5,
+    "heightMin": 0,
+    "heightMax": 2,
     "countMin": 8,
     "countMax": 10,
     "yieldMin": 16,
-    "yieldMax": 40
+    "yieldMax": 40,
+    "group": "",
+    "groupOrder": 0,
+    "extractionCooldownScale": 1
   },
+
   {
+    "enabled": true,
     "state": {
       "name": "minecraft:lapis_ore"
     },
+    "dimensionFilter": "whitelist",
+    "dimensionSelector": "id",
+    "dimension": [ 1000, 0 ],
+    "biomeFilter": "whitelist",
+    "biomeSelector": "id",
+    "biome": [ "*" ],
     "weight": 50,
     "widthMin": 2,
     "widthMax": 3,
+    "heightMin": 0,
+    "heightMax": 2,
     "countMin": 4,
     "countMax": 6,
     "yieldMin": 3,
-    "yieldMax": 4
+    "yieldMax": 4,
+    "group": "",
+    "groupOrder": 0,
+    "extractionCooldownScale": 1
   },
+
   {
     "comment": [
       "Usually emeralds only generate in hills biomes, and there any number",
@@ -91,40 +168,23 @@
       "mutated_extreme_hills",
       "mutated_extreme_hills_with_trees"
     ],
+    "dimensionFilter": "whitelist",
+    "dimensionSelector": "id",
+    "dimension": [ 1000, 0 ],
+    "biomeFilter": "whitelist",
+    "biomeSelector": "id",
+    "biome": [ "*" ],
     "weight": 100,
     "widthMin": 2,
     "widthMax": 3,
+    "heightMin": 0,
+    "heightMax": 2,
     "countMin": 2,
     "countMax": 4,
     "yieldMin": 2,
-    "yieldMax": 3
-  },
-  {
-    "comment": [ "disabled" ],
-    "enabled": false,
-    "state": {
-      "name": "minecraft:quartz_ore"
-    },
-    "dimension": "nether",
-    "widthMin": 2,
-    "widthMax": 5,
-    "countMin": 8,
-    "countMax": 10,
-    "yieldMin": 224,
-    "yieldMax": 280
-  },
-  {
-    "comment": [ "disabled" ],
-    "enabled": false,
-    "state": {
-      "name": "minecraft:glowstone"
-    },
-    "dimension": "nether",
-    "widthMin": 5,
-    "widthMax": 8,
-    "countMin": 10,
-    "countMax": 14,
-    "yieldMin": 210,
-    "yieldMax": 262
+    "yieldMax": 3,
+    "group": "",
+    "groupOrder": 0,
+    "extractionCooldownScale": 1
   }
 ]

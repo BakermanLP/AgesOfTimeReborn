@@ -5,11 +5,11 @@
   },
   "dimensions": [
     {
-      "dim": 10,
+      "dim": 1000,
       "dimensiontype": {
-        "id": 10,
+        "id": 1000,
         "name": "Mining",
-        "suffix": "_dim10",
+        "suffix": "_dim1000",
         "keeploaded": false,
         "worldprovider": "WorldProviderSurfaceJED"
       },

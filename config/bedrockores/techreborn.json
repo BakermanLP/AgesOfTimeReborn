@@ -1,0 +1,83 @@
+[
+  {
+    "enabled": true,
+    "state": {
+      "name": "techreborn:ore",
+      "properties": {
+      "type": "galena"
+      }
+    },
+    "dimensionFilter": "whitelist",
+    "dimensionSelector": "id",
+    "dimension": [ 1000, 0 ],
+    "biomeFilter": "whitelist",
+    "biomeSelector": "id",
+    "biome": [ "*" ],
+    "weight": 11,
+    "widthMin": 2,
+    "widthMax": 3,
+    "heightMin": 0,
+    "heightMax": 2,
+    "countMin": 3,
+    "countMax": 4,
+    "yieldMin": 8,
+    "yieldMax": 13,
+    "group": "",
+    "groupOrder": 0,
+    "extractionCooldownScale": 1
+  },
+  {
+    "enabled": true,
+    "state": {
+      "name": "techreborn:ore",
+      "properties": {
+      "type": "ruby"
+      }
+    },
+    "dimensionFilter": "whitelist",
+    "dimensionSelector": "id",
+    "dimension": [ 1000, 0 ],
+    "biomeFilter": "whitelist",
+    "biomeSelector": "id",
+    "biome": [ "*" ],
+    "weight": 8,
+    "widthMin": 3,
+    "widthMax": 5,
+    "heightMin": 0,
+    "heightMax": 2,
+    "countMin": 2,
+    "countMax": 4,
+    "yieldMin": 9,
+    "yieldMax": 14,
+    "group": "",
+    "groupOrder": 0,
+    "extractionCooldownScale": 1
+  },
+  {
+    "enabled": true,
+    "state": {
+      "name": "techreborn:ore",
+      "properties": {
+      "type": "sapphire"
+      }
+    },
+    "dimensionFilter": "whitelist",
+    "dimensionSelector": "id",
+    "dimension": [ 1000, 0 ],
+    "biomeFilter": "whitelist",
+    "biomeSelector": "id",
+    "biome": [ "*" ],
+    "weight": 8,
+    "widthMin": 3,
+    "widthMax": 5,
+    "heightMin": 0,
+    "heightMax": 2,
+    "countMin": 2   ,
+    "countMax": 4,
+    "yieldMin": 9,
+    "yieldMax": 14,
+    "group": "",
+    "groupOrder": 0,
+    "extractionCooldownScale": 1
+  }
+]

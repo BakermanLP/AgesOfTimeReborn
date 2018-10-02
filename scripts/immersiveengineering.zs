@@ -18,3 +18,23 @@ house.removeEntry( "aluminium_ingot" );
 
 house.addItemEntry( <thermalfoundation:material:192>, 10, 0, "copper_ingot" );
 house.addItemEntry( <thermalfoundation:material:196>, 10, 0, "aluminium_ingot" );
+
+// Hemp Seed Recipe
+recipes.addShaped(<immersiveengineering:seed:0>, [
+    [null, null, null],
+    [<immersiveengineering:material:4>, <minecraft:tallgrass:1>, <immersiveengineering:material:4>],
+    [null, null, null]
+]);
+
+// OreDic Coal coke
+recipes.remove(<immersiveengineering:stone_decoration:3>);
+recipes.addShaped(<immersiveengineering:stone_decoration:3>, [
+    [<ore:fuelCoke>, <ore:fuelCoke>, <ore:fuelCoke>],
+    [<ore:fuelCoke>, <ore:fuelCoke>, <ore:fuelCoke>],
+    [<ore:fuelCoke>, <ore:fuelCoke>, <ore:fuelCoke>]
+]);
+
+// Coal Coke
+recipes.addShapeless(<immersiveengineering:material:6>*9, [
+    <thermalfoundation:storage_resource:1>
+]);

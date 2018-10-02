@@ -1,195 +1,95 @@
 {
   "minecraft:soul_sand:0": [
+// Mesh Level 1 \/
     {
-      "drop": "minecraft:quartz:-1",
-      "chance": 1.0,
-      "meshLevel": 2
-    },
-    {
-      "drop": "minecraft:quartz:-1",
-      "chance": 0.33,
-      "meshLevel": 2
-    },
-    {
-      "drop": "minecraft:quartz:-1",
-      "chance": 1.0,
-      "meshLevel": 4
-    },
-    {
-      "drop": "minecraft:nether_wart:-1",
-      "chance": 0.1,
+      "drop": "minecraft:nether_wart",
+      "chance": 0.10,
       "meshLevel": 1
     },
+      
+// Mesh Level 2 \/
     {
-      "drop": "minecraft:ghast_tear:-1",
-      "chance": 0.02,
-      "meshLevel": 4
-    }
-  ],
-  "minecraft:leaves:0": [
-    {
-      "drop": "minecraft:sapling:0",
-      "chance": 0.2,
-      "meshLevel": 1
-    },
-    {
-      "drop": "minecraft:sapling:0",
-      "chance": 0.4,
-      "meshLevel": 2
-    },
-    {
-      "drop": "minecraft:sapling:0",
-      "chance": 0.6,
-      "meshLevel": 3
-    },
-    {
-      "drop": "minecraft:sapling:0",
-      "chance": 0.8,
-      "meshLevel": 4
-    },
-    {
-      "drop": "minecraft:apple:-1",
-      "chance": 0.05,
-      "meshLevel": 1
-    },
-    {
-      "drop": "minecraft:apple:-1",
-      "chance": 0.1,
-      "meshLevel": 2
-    },
-    {
-      "drop": "minecraft:apple:-1",
+      "drop": "minecraft:nether_wart",
       "chance": 0.15,
-      "meshLevel": 3
-    },
-    {
-      "drop": "minecraft:apple:-1",
-      "chance": 0.2,
-      "meshLevel": 4
-    },
-    {
-      "drop": "minecraft:golden_apple:0",
-      "chance": 0.001,
-      "meshLevel": 1
-    },
-    {
-      "drop": "minecraft:golden_apple:0",
-      "chance": 0.003,
       "meshLevel": 2
     },
     {
-      "drop": "minecraft:golden_apple:0",
-      "chance": 0.005,
-      "meshLevel": 3
-    },
-    {
-      "drop": "minecraft:golden_apple:0",
-      "chance": 0.01,
-      "meshLevel": 4
-    },
-    {
-      "drop": "exnihilocreatio:item_material:2",
-      "chance": 0.025,
-      "meshLevel": 1
-    },
-    {
-      "drop": "exnihilocreatio:item_material:2",
-      "chance": 0.05,
+      "drop": "minecraft:quartz",
+      "chance": 0.75,
       "meshLevel": 2
     },
     {
-      "drop": "exnihilocreatio:item_material:2",
-      "chance": 0.1,
+      "drop": "minecraft:glowstone_dust",
+      "chance": 0.9,
+      "meshLevel": 2
+    },
+      
+// Mesh Level 3 \/
+    {
+      "drop": "minecraft:nether_wart",
+      "chance": 0.20,
       "meshLevel": 3
     },
     {
-      "drop": "exnihilocreatio:item_material:2",
-      "chance": 0.2,
+      "drop": "minecraft:quartz",
+      "chance": 0.85,
+      "meshLevel": 3
+    },
+    {
+      "drop": "minecraft:glowstone_dust",
+      "chance": 0.95,
+      "meshLevel": 3
+    },
+    {
+      "drop": "minecraft:ghast_tear",
+      "chance": 0.32,
+      "meshLevel": 3
+    },
+    {
+      "drop": "tconstruct:nuggets:0",
+      "chance": 0.45,
+      "meshLevel": 3
+    },
+    {
+      "drop": "tconstruct:nuggets:1",
+      "chance": 0.40,
+      "meshLevel": 3
+    },
+      
+// Mesh Level 4 \/
+    {
+      "drop": "minecraft:nether_wart",
+      "chance": 0.25,
+      "meshLevel": 4
+    },
+    {
+      "drop": "minecraft:quartz",
+      "chance": 1.0,
+      "meshLevel": 4
+    },
+    {
+      "drop": "minecraft:glowstone_dust",
+      "chance": 0.95,
+      "meshLevel": 4
+    },
+    {
+      "drop": "minecraft:ghast_tear",
+      "chance": 0.37,
+      "meshLevel": 4
+    },
+    {
+      "drop": "tconstruct:nuggets:0",
+      "chance": 0.65,
+      "meshLevel": 4
+    },
+    {
+      "drop": "tconstruct:nuggets:1",
+      "chance": 0.60,
       "meshLevel": 4
     }
   ],
-  "minecraft:leaves:2": [
-    {
-      "drop": "minecraft:sapling:2",
-      "chance": 0.2,
-      "meshLevel": 1
-    },
-    {
-      "drop": "minecraft:sapling:2",
-      "chance": 0.4,
-      "meshLevel": 2
-    },
-    {
-      "drop": "minecraft:sapling:2",
-      "chance": 0.6,
-      "meshLevel": 3
-    },
-    {
-      "drop": "minecraft:sapling:2",
-      "chance": 0.8,
-      "meshLevel": 4
-    },
-    {
-      "drop": "minecraft:apple:-1",
-      "chance": 0.05,
-      "meshLevel": 1
-    },
-    {
-      "drop": "minecraft:apple:-1",
-      "chance": 0.1,
-      "meshLevel": 2
-    },
-    {
-      "drop": "minecraft:apple:-1",
-      "chance": 0.15,
-      "meshLevel": 3
-    },
-    {
-      "drop": "minecraft:apple:-1",
-      "chance": 0.2,
-      "meshLevel": 4
-    },
-    {
-      "drop": "minecraft:golden_apple:0",
-      "chance": 0.001,
-      "meshLevel": 1
-    },
-    {
-      "drop": "minecraft:golden_apple:0",
-      "chance": 0.003,
-      "meshLevel": 2
-    },
-    {
-      "drop": "minecraft:golden_apple:0",
-      "chance": 0.005,
-      "meshLevel": 3
-    },
-    {
-      "drop": "minecraft:golden_apple:0",
-      "chance": 0.01,
-      "meshLevel": 4
-    },
-    {
-      "drop": "exnihilocreatio:item_material:2",
-      "chance": 0.025,
-      "meshLevel": 1
-    },
-    {
-      "drop": "exnihilocreatio:item_material:2",
-      "chance": 0.05,
-      "meshLevel": 2
-    },
-    {
-      "drop": "exnihilocreatio:item_material:2",
-      "chance": 0.1,
-      "meshLevel": 3
-    },
-    {
-      "drop": "exnihilocreatio:item_material:2",
-      "chance": 0.2,
-      "meshLevel": 4
-    }
-  ],
+
+// Dirt \/
   "ore:dirt": [
     {
       "drop": "exnihilocreatio:item_pebble:0",
@@ -252,17 +152,17 @@
       "meshLevel": 1
     },
     {
-      "drop": "minecraft:wheat_seeds:-1",
+      "drop": "minecraft:wheat_seeds",
       "chance": 0.7,
       "meshLevel": 1
     },
     {
-      "drop": "minecraft:melon_seeds:-1",
+      "drop": "minecraft:melon_seeds",
       "chance": 0.35,
       "meshLevel": 1
     },
     {
-      "drop": "minecraft:pumpkin_seeds:-1",
+      "drop": "minecraft:pumpkin_seeds",
       "chance": 0.35,
       "meshLevel": 1
     },
@@ -277,515 +177,698 @@
       "meshLevel": 1
     },
     {
-      "drop": "exnihilocreatio:item_seed_oak:-1",
+      "drop": "exnihilocreatio:item_seed_oak",
       "chance": 0.05,
       "meshLevel": 1
     },
     {
-      "drop": "exnihilocreatio:item_seed_spruce:-1",
+      "drop": "exnihilocreatio:item_seed_spruce",
       "chance": 0.05,
       "meshLevel": 1
     },
     {
-      "drop": "exnihilocreatio:item_seed_birch:-1",
+      "drop": "exnihilocreatio:item_seed_birch",
       "chance": 0.05,
       "meshLevel": 1
     },
     {
-      "drop": "exnihilocreatio:item_seed_jungle:-1",
+      "drop": "exnihilocreatio:item_seed_jungle",
       "chance": 0.05,
       "meshLevel": 1
     },
     {
-      "drop": "exnihilocreatio:item_seed_acacia:-1",
+      "drop": "exnihilocreatio:item_seed_acacia",
       "chance": 0.05,
       "meshLevel": 1
     },
     {
-      "drop": "exnihilocreatio:item_seed_darkoak:-1",
+      "drop": "exnihilocreatio:item_seed_darkoak",
       "chance": 0.05,
       "meshLevel": 1
     },
     {
-      "drop": "exnihilocreatio:item_seed_cactus:-1",
+      "drop": "exnihilocreatio:item_seed_cactus",
       "chance": 0.05,
       "meshLevel": 1
     },
     {
-      "drop": "exnihilocreatio:item_seed_sugarcane:-1",
+      "drop": "exnihilocreatio:item_seed_sugarcane",
       "chance": 0.05,
       "meshLevel": 1
     },
     {
-      "drop": "exnihilocreatio:item_seed_carrot:-1",
+      "drop": "exnihilocreatio:item_seed_carrot",
       "chance": 0.05,
       "meshLevel": 1
     },
     {
-      "drop": "exnihilocreatio:item_seed_potato:-1",
+      "drop": "exnihilocreatio:item_seed_potato",
+      "chance": 0.05,
+      "meshLevel": 1
+    },
+    {
+      "drop": "plants2:crystal_sapling:0",
+      "chance": 0.05,
+      "meshLevel": 1
+    },
+    {
+      "drop": "tconstruct:slime_sapling:0",
+      "chance": 0.05,
+      "meshLevel": 1
+    },
+    {
+      "drop": "tconstruct:slime_sapling:1",
+      "chance": 0.05,
+      "meshLevel": 1
+    },
+    {
+      "drop": "tconstruct:slime_sapling:2",
+      "chance": 0.05,
+      "meshLevel": 1
+    },
+    {
+      "drop": "biomesoplenty:sapling_0:0",
+      "chance": 0.05,
+      "meshLevel": 1
+    },
+    {
+      "drop": "biomesoplenty:sapling_0:1",
+      "chance": 0.05,
+      "meshLevel": 1
+    },
+    {
+      "drop": "biomesoplenty:sapling_0:2",
+      "chance": 0.05,
+      "meshLevel": 1
+    },
+    {
+      "drop": "biomesoplenty:sapling_0:3",
+      "chance": 0.05,
+      "meshLevel": 1
+    },
+    {
+      "drop": "biomesoplenty:sapling_0:4",
+      "chance": 0.05,
+      "meshLevel": 1
+    },
+    {
+      "drop": "biomesoplenty:sapling_0:5",
+      "chance": 0.05,
+      "meshLevel": 1
+    },
+    {
+      "drop": "biomesoplenty:sapling_0:6",
+      "chance": 0.05,
+      "meshLevel": 1
+    },
+    {
+      "drop": "biomesoplenty:sapling_0:7",
+      "chance": 0.05,
+      "meshLevel": 1
+    },
+    {
+      "drop": "biomesoplenty:sapling_1:0",
+      "chance": 0.05,
+      "meshLevel": 1
+    },
+    {
+      "drop": "biomesoplenty:sapling_1:1",
+      "chance": 0.05,
+      "meshLevel": 1
+    },
+    {
+      "drop": "biomesoplenty:sapling_1:2",
+      "chance": 0.05,
+      "meshLevel": 1
+    },
+    {
+      "drop": "biomesoplenty:sapling_1:3",
+      "chance": 0.05,
+      "meshLevel": 1
+    },
+    {
+      "drop": "biomesoplenty:sapling_1:4",
+      "chance": 0.05,
+      "meshLevel": 1
+    },
+    {
+      "drop": "biomesoplenty:sapling_1:5",
+      "chance": 0.05,
+      "meshLevel": 1
+    },
+    {
+      "drop": "biomesoplenty:sapling_1:6",
+      "chance": 0.05,
+      "meshLevel": 1
+    },
+    {
+      "drop": "biomesoplenty:sapling_1:7",
+      "chance": 0.05,
+      "meshLevel": 1
+    },
+    {
+      "drop": "biomesoplenty:sapling_2:0",
+      "chance": 0.05,
+      "meshLevel": 1
+    },
+    {
+      "drop": "biomesoplenty:sapling_2:1",
+      "chance": 0.05,
+      "meshLevel": 1
+    },
+    {
+      "drop": "biomesoplenty:sapling_2:2",
+      "chance": 0.05,
+      "meshLevel": 1
+    },
+    {
+      "drop": "biomesoplenty:sapling_2:3",
+      "chance": 0.05,
+      "meshLevel": 1
+    },
+    {
+      "drop": "biomesoplenty:sapling_2:4",
+      "chance": 0.05,
+      "meshLevel": 1
+    },
+    {
+      "drop": "biomesoplenty:sapling_2:5",
+      "chance": 0.05,
+      "meshLevel": 1
+    },
+    {
+      "drop": "biomesoplenty:sapling_2:6",
+      "chance": 0.05,
+      "meshLevel": 1
+    },
+    {
+      "drop": "biomesoplenty:sapling_2:7",
       "chance": 0.05,
       "meshLevel": 1
     }
   ],
+
+// Sand \/
   "ore:sand": [
-    {
-      "drop": "hardcoreore:nugget_titanium:0",
-      "chance": 0.01,
-      "meshLevel": 2
-    },
-    {
-      "drop": "hardcoreore:nugget_titanium:0",
-      "chance": 0.02,
-      "meshLevel": 2
-    },
-    {
-      "drop": "hardcoreore:nugget_titanium:0",
-      "chance": 0.04,
-      "meshLevel": 4
-    },
-    {
-      "drop": "hardcoreore:nugget_uranium:0",
-      "chance": 0.01,
-      "meshLevel": 2
-    },
-    {
-      "drop": "hardcoreore:nugget_uranium:0",
-      "chance": 0.02,
-      "meshLevel": 2
-    },
-    {
-      "drop": "hardcoreore:nugget_uranium:0",
-      "chance": 0.04,
-      "meshLevel": 4
-    },
-    {
-      "drop": "tconstruct:nuggets:0",
-      "chance": 0.01,
-      "meshLevel": 2
-    },
-    {
-      "drop": "tconstruct:nuggets:0",
-      "chance": 0.02,
-      "meshLevel": 2
-    },
-    {
-      "drop": "tconstruct:nuggets:0",
-      "chance": 0.04,
-      "meshLevel": 4
-    },
-    {
-      "drop": "tconstruct:nuggets:1",
-      "chance": 0.01,
-      "meshLevel": 2
-    },
-    {
-      "drop": "tconstruct:nuggets:1",
-      "chance": 0.02,
-      "meshLevel": 2
-    },
-    {
-      "drop": "tconstruct:nuggets:1",
-      "chance": 0.04,
-      "meshLevel": 4
-    },
-    {
-      "drop": "minecraft:emerald",
-      "chance": 0.02,
-      "meshLevel": 2
-    },
-    {
-      "drop": "minecraft:quartz:0",
-      "chance": 0.05,
-      "meshLevel": 2
-    },
+// Mesh Level 1 \/
     {
       "drop": "minecraft:dye:15",
-      "chance": 0.2,
+      "chance": 0.43,
       "meshLevel": 1
     },
+      
+// Mesh Level 2 \/
     {
-      "drop": "minecraft:gunpowder:-1",
-      "chance": 0.07,
-      "meshLevel": 1
+      "drop": "minecraft:dye:15",
+      "chance": 0.58,
+      "meshLevel": 2
     },
     {
-      "drop": "minecraft:redstone:-1",
-      "chance": 0.125,
-      "meshLevel": 3
+      "drop": "minecraft:dye:3",
+      "chance": 0.27,
+      "meshLevel": 2
     },
     {
-      "drop": "minecraft:redstone:-1",
+      "drop": "minecraft:gunpowder",
+      "chance": 0.18,
+      "meshLevel": 2
+    },
+    {
+      "drop": "minecraft:blaze_powder",
       "chance": 0.25,
-      "meshLevel": 4
+      "meshLevel": 2
     },
     {
-      "drop": "minecraft:glowstone_dust:-1",
-      "chance": 0.0625,
-      "meshLevel": 3
+      "drop": "minecraft:prismarine_shard",
+      "chance": 0.33,
+      "meshLevel": 2
     },
     {
-      "drop": "minecraft:blaze_powder:-1",
-      "chance": 0.05,
+      "drop": "appliedenergistics2:material:0",
+      "chance": 0.40,
+      "meshLevel": 2
+    },
+      
+// Mesh Level 3 \/
+    {
+      "drop": "minecraft:dye:15",
+      "chance": 0.65,
       "meshLevel": 3
     },
     {
       "drop": "minecraft:dye:3",
-      "chance": 0.03,
-      "meshLevel": 1
-    },
-    {
-      "drop": "minecraft:prismarine_shard:-1",
-      "chance": 0.02,
-      "meshLevel": 4
-    },
-    {
-      "drop": "actuallyadditions:item_misc:5",
-      "chance": 0.02,
-      "meshLevel": 3
-    },
-    {
-      "drop": "actuallyadditions:item_misc:5",
-      "chance": 0.05,
-      "meshLevel": 4
-    }
-  ],
-  "minecraft:leaves2:1": [
-    {
-      "drop": "minecraft:sapling:5",
-      "chance": 0.2,
-      "meshLevel": 1
-    },
-    {
-      "drop": "minecraft:sapling:5",
-      "chance": 0.4,
-      "meshLevel": 2
-    },
-    {
-      "drop": "minecraft:sapling:5",
-      "chance": 0.6,
-      "meshLevel": 3
-    },
-    {
-      "drop": "minecraft:sapling:5",
-      "chance": 0.8,
-      "meshLevel": 4
-    },
-    {
-      "drop": "minecraft:apple:-1",
-      "chance": 0.05,
-      "meshLevel": 1
-    },
-    {
-      "drop": "minecraft:apple:-1",
-      "chance": 0.1,
-      "meshLevel": 2
-    },
-    {
-      "drop": "minecraft:apple:-1",
-      "chance": 0.15,
-      "meshLevel": 3
-    },
-    {
-      "drop": "minecraft:apple:-1",
-      "chance": 0.2,
-      "meshLevel": 4
-    },
-    {
-      "drop": "minecraft:golden_apple:0",
-      "chance": 0.001,
-      "meshLevel": 1
-    },
-    {
-      "drop": "minecraft:golden_apple:0",
-      "chance": 0.003,
-      "meshLevel": 2
-    },
-    {
-      "drop": "minecraft:golden_apple:0",
-      "chance": 0.005,
-      "meshLevel": 3
-    },
-    {
-      "drop": "minecraft:golden_apple:0",
-      "chance": 0.01,
-      "meshLevel": 4
-    },
-    {
-      "drop": "exnihilocreatio:item_material:2",
-      "chance": 0.025,
-      "meshLevel": 1
-    },
-    {
-      "drop": "exnihilocreatio:item_material:2",
-      "chance": 0.05,
-      "meshLevel": 2
-    },
-    {
-      "drop": "exnihilocreatio:item_material:2",
-      "chance": 0.1,
-      "meshLevel": 3
-    },
-    {
-      "drop": "exnihilocreatio:item_material:2",
-      "chance": 0.2,
-      "meshLevel": 4
-    }
-  ],
-  "ore:gravel": [
-    {
-      "drop": "minecraft:flint:-1",
       "chance": 0.25,
+      "meshLevel": 3
+    },
+    {
+      "drop": "minecraft:gunpowder",
+      "chance": 0.20,
+      "meshLevel": 3
+    },
+    {
+      "drop": "minecraft:redstone",
+      "chance": 0.30,
+      "meshLevel": 3
+    },
+    {
+      "drop": "minecraft:blaze_powder",
+      "chance": 0.30,
+      "meshLevel": 3
+    },
+    {
+      "drop": "minecraft:prismarine_shard",
+      "chance": 0.35,
+      "meshLevel": 3
+    },
+    {
+      "drop": "immersiveengineering:metal:25",
+      "chance": 0.20,
+      "meshLevel": 3
+    },
+    {
+      "drop": "actuallyadditions:item_misc:5",
+      "chance": 0.28,
+      "meshLevel": 3
+    },
+    {
+      "drop": "appliedenergistics2:material:0",
+      "chance": 0.50,
+      "meshLevel": 3
+    },
+    {
+      "drop": "appliedenergistics2:material:1",
+      "chance": 0.25,
+      "meshLevel": 3
+    },
+      
+// Mesh Level 4 \/
+    {
+      "drop": "minecraft:dye:15",
+      "chance": 0.60,
+      "meshLevel": 4
+    },
+    {
+      "drop": "minecraft:dye:3",
+      "chance": 0.20,
+      "meshLevel": 4
+    },
+    {
+      "drop": "minecraft:gunpowder",
+      "chance": 0.30,
+      "meshLevel": 4
+    },
+    {
+      "drop": "minecraft:redstone",
+      "chance": 0.50,
+      "meshLevel": 4
+    },
+    {
+      "drop": "minecraft:blaze_powder",
+      "chance": 0.35,
+      "meshLevel": 4
+    },
+    {
+      "drop": "minecraft:prismarine_shard",
+      "chance": 0.32,
+      "meshLevel": 4
+    },
+    {
+      "drop": "immersiveengineering:metal:25",
+      "chance": 0.30,
+      "meshLevel": 4
+    },
+    {
+      "drop": "actuallyadditions:item_misc:5",
+      "chance": 0.36,
+      "meshLevel": 4
+    },
+    {
+      "drop": "appliedenergistics2:material:0",
+      "chance": 0.56,
+      "meshLevel": 4
+    },
+    {
+      "drop": "appliedenergistics2:material:1",
+      "chance": 0.28,
+      "meshLevel": 4
+    },
+    {
+      "drop": "appliedenergistics2:material:2",
+      "chance": 0.42,
+      "meshLevel": 4
+    }
+  ],
+
+// Gravel \/
+  "ore:gravel": [
+// Mesh Level 1 \/
+    {
+      "drop": "minecraft:flint",
+      "chance": 0.25,
+      "meshLevel": 1
+    },
+    {
+      "drop": "minecraft:coal",
+      "chance": 0.30,
+      "meshLevel": 1
+    },
+    {
+      "drop": "minecraft:iron_nugget",
+      "chance": 0.37,
+      "meshLevel": 1
+    },
+    {
+      "drop": "thermalfoundation:material:192",
+      "chance": 0.28,
+      "meshLevel": 1
+    },
+      
+// Mesh Level 2 \/
+    {
+      "drop": "minecraft:flint",
+      "chance": 0.28,
       "meshLevel": 2
     },
     {
-      "drop": "minecraft:coal:0",
-      "chance": 0.125,
+      "drop": "minecraft:coal",
+      "chance": 0.36,
       "meshLevel": 2
     },
     {
       "drop": "minecraft:dye:4",
-      "chance": 0.05,
+      "chance": 0.45,
       "meshLevel": 2
     },
     {
-      "drop": "minecraft:diamond:-1",
-      "chance": 0.008,
-      "meshLevel": 3
-    },
-    {
-      "drop": "minecraft:emerald:-1",
-      "chance": 0.008,
-      "meshLevel": 3
-    },
-    {
-      "drop": "minecraft:diamond:-1",
-      "chance": 0.016,
-      "meshLevel": 4
-    },
-    {
-      "drop": "minecraft:emerald:-1",
-      "chance": 0.016,
-      "meshLevel": 4
-    },
-    {
-      "drop": "minecraft:gold_nugget:0",
-      "chance": 0.07,
+      "drop": "minecraft:iron_nugget",
+      "chance": 0.42,
       "meshLevel": 2
     },
     {
-      "drop": "minecraft:gold_nugget:0",
-      "chance": 0.1,
-      "meshLevel": 3
-    },
-    {
-      "drop": "minecraft:gold_nugget:0",
-      "chance": 0.2,
-      "meshLevel": 4
-    },
-    {
-      "drop": "minecraft:iron_nugget:0",
-      "chance": 0.07,
+      "drop": "techreborn:nuggets:18",
+      "chance": 0.21,
       "meshLevel": 2
     },
     {
-      "drop": "minecraft:iron_nugget:0",
-      "chance": 0.1,
-      "meshLevel": 3
-    },
-    {
-      "drop": "minecraft:iron_nugget:0",
-      "chance": 0.2,
-      "meshLevel": 4
-    },
-    {
-      "drop": "hardcoreore:nugget_copper:0",
-      "chance": 0.07,
+      "drop": "thermalfoundation:material:192",
+      "chance": 0.30,
       "meshLevel": 2
     },
     {
-      "drop": "hardcoreore:nugget_copper:0",
-      "chance": 0.1,
-      "meshLevel": 3
-    },
-    {
-      "drop": "hardcoreore:nugget_copper:0",
-      "chance": 0.2,
-      "meshLevel": 4
-    },
-    {
-      "drop": "hardcoreore:nugget_tin:0",
-      "chance": 0.07,
+      "drop": "thermalfoundation:material:193",
+      "chance": 0.33,
       "meshLevel": 2
     },
     {
-      "drop": "hardcoreore:nugget_tin:0",
-      "chance": 0.1,
+      "drop": "thermalfoundation:material:196",
+      "chance": 0.40,
+      "meshLevel": 2
+    },
+      
+// Mesh Level 3 \/
+    {
+      "drop": "minecraft:flint",
+      "chance": 0.32,
       "meshLevel": 3
     },
     {
-      "drop": "hardcoreore:nugget_tin:0",
-      "chance": 0.2,
+      "drop": "minecraft:coal",
+      "chance": 0.40,
+      "meshLevel": 3
+    },
+    {
+      "drop": "minecraft:dye:4",
+      "chance": 0.51,
+      "meshLevel": 3
+    },
+    {
+      "drop": "minecraft:emerald",
+      "chance": 0.20,
+      "meshLevel": 3
+    },
+    {
+      "drop": "minecraft:diamond",
+      "chance": 0.15,
+      "meshLevel": 3
+    },
+    {
+      "drop": "minecraft:iron_nugget",
+      "chance": 0.45,
+      "meshLevel": 3
+    },
+    {
+      "drop": "techreborn:nuggets:18",
+      "chance": 0.24,
+      "meshLevel": 3
+    },
+    {
+      "drop": "thermalfoundation:material:192",
+      "chance": 0.35,
+      "meshLevel": 3
+    },
+    {
+      "drop": "thermalfoundation:material:193",
+      "chance": 0.38,
+      "meshLevel": 3
+    },
+    {
+      "drop": "thermalfoundation:material:196",
+      "chance": 0.47,
+      "meshLevel": 3
+    },
+    {
+      "drop": "mekanism:nugget:1",
+      "chance": 0.48,
+      "meshLevel": 3
+    },
+    {
+      "drop": "thermalfoundation:material:194",
+      "chance": 0.46,
+      "meshLevel": 3
+    },
+    {
+      "drop": "thermalfoundation:material:195",
+      "chance": 0.46,
+      "meshLevel": 3
+    },
+    {
+      "drop": "thermalfoundation:material:197",
+      "chance": 0.27,
+      "meshLevel": 3
+    },
+    {
+      "drop": "techreborn:nuggets:14",
+      "chance": 0.8,
+      "meshLevel": 3
+    },
+      
+// Mesh Level 4 \/
+    {
+      "drop": "minecraft:flint",
+      "chance": 0.37,
       "meshLevel": 4
     },
     {
-      "drop": "hardcoreore:nugget_lead:0",
-      "chance": 0.07,
-      "meshLevel": 2
-    },
-    {
-      "drop": "hardcoreore:nugget_lead:0",
-      "chance": 0.1,
-      "meshLevel": 3
-    },
-    {
-      "drop": "hardcoreore:nugget_lead:0",
-      "chance": 0.2,
+      "drop": "minecraft:coal",
+      "chance": 0.55,
       "meshLevel": 4
     },
     {
-      "drop": "hardcoreore:nugget_osmium:0",
-      "chance": 0.07,
-      "meshLevel": 2
-    },
-    {
-      "drop": "hardcoreore:nugget_osmium:0",
-      "chance": 0.1,
-      "meshLevel": 3
-    },
-    {
-      "drop": "hardcoreore:nugget_osmium:0",
-      "chance": 0.2,
+      "drop": "minecraft:dye:4",
+      "chance": 0.70,
       "meshLevel": 4
     },
     {
-      "drop": "hardcoreore:nugget_iridium:0",
-      "chance": 0.01,
-      "meshLevel": 2
-    },
-    {
-      "drop": "hardcoreore:nugget_iridium:0",
-      "chance": 0.02,
-      "meshLevel": 3
-    },
-    {
-      "drop": "hardcoreore:nugget_iridium:0",
-      "chance": 0.04,
+      "drop": "minecraft:emerald",
+      "chance": 0.41,
       "meshLevel": 4
     },
     {
-      "drop": "hardcoreore:nugget_silver:0",
-      "chance": 0.07,
-      "meshLevel": 2
-    },
-    {
-      "drop": "hardcoreore:nugget_silver:0",
-      "chance": 0.1,
-      "meshLevel": 3
-    },
-    {
-      "drop": "hardcoreore:nugget_silver:0",
-      "chance": 0.2,
+      "drop": "minecraft:diamond",
+      "chance": 0.34,
       "meshLevel": 4
     },
     {
-      "drop": "hardcoreore:nugget_zinc:0",
-      "chance": 0.07,
-      "meshLevel": 2
-    },
-    {
-      "drop": "hardcoreore:nugget_zinc:0",
-      "chance": 0.1,
-      "meshLevel": 3
-    },
-    {
-      "drop": "hardcoreore:nugget_zinc:0",
-      "chance": 0.2,
+      "drop": "minecraft:iron_nugget",
+      "chance": 0.60,
       "meshLevel": 4
     },
     {
-      "drop": "hardcoreore:nugget_nickel:0",
-      "chance": 0.07,
-      "meshLevel": 2
-    },
-    {
-      "drop": "hardcoreore:nugget_nickel:0",
-      "chance": 0.1,
-      "meshLevel": 3
-    },
-    {
-      "drop": "hardcoreore:nugget_nickel:0",
-      "chance": 0.2,
+      "drop": "techreborn:nuggets:18",
+      "chance": 0.48,
       "meshLevel": 4
     },
     {
-      "drop": "hardcoreore:nugget_aluminum:0",
-      "chance": 0.07,
-      "meshLevel": 2
-    },
-    {
-      "drop": "hardcoreore:nugget_aluminum:0",
-      "chance": 0.1,
-      "meshLevel": 3
-    },
-    {
-      "drop": "hardcoreore:nugget_aluminum:0",
-      "chance": 0.2,
+      "drop": "thermalfoundation:material:192",
+      "chance": 0.70,
       "meshLevel": 4
     },
     {
-      "drop": "hardcoreore:nugget_platinum:0",
-      "chance": 0.02,
-      "meshLevel": 2
+      "drop": "thermalfoundation:material:193",
+      "chance": 0.60,
+      "meshLevel": 4
     },
     {
-      "drop": "hardcoreore:nugget_platinum:0",
-      "chance": 0.04,
+      "drop": "thermalfoundation:material:196",
+      "chance": 0.65,
+      "meshLevel": 4
+    },
+    {
+      "drop": "mekanism:nugget:1",
+      "chance": 0.75,
+      "meshLevel": 4
+    },
+    {
+      "drop": "thermalfoundation:material:194",
+      "chance": 0.72,
+      "meshLevel": 4
+    },
+    {
+      "drop": "thermalfoundation:material:195",
+      "chance": 0.72,
+      "meshLevel": 4
+    },
+    {
+      "drop": "thermalfoundation:material:197",
+      "chance": 0.67,
+      "meshLevel": 4
+    },
+    {
+      "drop": "techreborn:nuggets:14",
+      "chance": 0.20,
+      "meshLevel": 4
+    },
+    {
+      "drop": "thermalfoundation:material:198",
+      "chance": 0.30,
+      "meshLevel": 4
+    },
+    {
+      "drop": "thermalfoundation:material:199",
+      "chance": 0.39,
+      "meshLevel": 4
+    },
+    {
+      "drop": "techreborn:nuggets:3",
+      "chance": 0.44,
+      "meshLevel": 4
+    },
+    {
+      "drop": "techreborn:nuggets:17",
+      "chance": 0.25,
+      "meshLevel": 4
+    },
+    {
+      "drop": "thermalfoundation:material:200",
+      "chance": 0.31,
+      "meshLevel": 4
+    }
+  ],
+
+// Dust
+"exnihilocreatio:block_dust": [
+    {
+      "drop": "techreborn:gem:0",
+      "chance": 0.10,
       "meshLevel": 3
     },
     {
-      "drop": "hardcoreore:nugget_platinum:0",
+      "drop": "techreborn:gem:1",
+      "chance": 0.10,
+      "meshLevel": 3
+    },
+    {
+      "drop": "techreborn:gem:2",
+      "chance": 0.09,
+      "meshLevel": 3
+    },
+    {
+      "drop": "techreborn:gem:3",
+      "chance": 0.15,
+      "meshLevel": 3
+    },
+    {
+      "drop": "biomesoplenty:gem:0",
+      "chance": 0.50,
+      "meshLevel": 3
+    },
+    {
+      "drop": "biomesoplenty:gem:2",
+      "chance": 0.13,
+      "meshLevel": 3
+    },
+    {
+      "drop": "biomesoplenty:gem:4",
+      "chance": 0.11,
+      "meshLevel": 3
+    },
+    {
+      "drop": "biomesoplenty:gem:5",
+      "chance": 0.08,
+      "meshLevel": 3
+    },
+    {
+      "drop": "biomesoplenty:gem:7",
       "chance": 0.12,
-      "meshLevel": 4
-    }
-  ],
-  "minecraft:leaves2:0": [
+      "meshLevel": 3
+    },
     {
-      "drop": "minecraft:sapling:4",
+      "drop": "biomesoplenty:crystal_shard",
+      "chance": 0.05,
+      "meshLevel": 3
+    },
+    {
+      "drop": "biomesoplenty:biome_essence",
+      "chance": 0.12,
+      "meshLevel": 3
+    },
+    {
+      "drop": "biomesoplenty:biome_essence",
+      "chance": 0.24,
+      "meshLevel": 3
+    }
+],
+
+    
+// Oak Leaves
+  "minecraft:leaves:0": [
+    {
+      "drop": "minecraft:sapling:0",
       "chance": 0.2,
       "meshLevel": 1
     },
     {
-      "drop": "minecraft:sapling:4",
+      "drop": "minecraft:sapling:0",
       "chance": 0.4,
       "meshLevel": 2
     },
     {
-      "drop": "minecraft:sapling:4",
+      "drop": "minecraft:sapling:0",
       "chance": 0.6,
       "meshLevel": 3
     },
     {
-      "drop": "minecraft:sapling:4",
+      "drop": "minecraft:sapling:0",
       "chance": 0.8,
       "meshLevel": 4
     },
     {
-      "drop": "minecraft:apple:-1",
+      "drop": "minecraft:apple",
       "chance": 0.05,
       "meshLevel": 1
     },
     {
-      "drop": "minecraft:apple:-1",
+      "drop": "minecraft:apple",
       "chance": 0.1,
       "meshLevel": 2
     },
     {
-      "drop": "minecraft:apple:-1",
+      "drop": "minecraft:apple",
       "chance": 0.15,
       "meshLevel": 3
     },
     {
-      "drop": "minecraft:apple:-1",
+      "drop": "minecraft:apple",
       "chance": 0.2,
       "meshLevel": 4
     },
@@ -830,44 +913,46 @@
       "meshLevel": 4
     }
   ],
-  "minecraft:leaves:3": [
+    
+// Birch Leaves
+  "minecraft:leaves:2": [
     {
-      "drop": "minecraft:sapling:3",
+      "drop": "minecraft:sapling:2",
       "chance": 0.2,
       "meshLevel": 1
     },
     {
-      "drop": "minecraft:sapling:3",
+      "drop": "minecraft:sapling:2",
       "chance": 0.4,
       "meshLevel": 2
     },
     {
-      "drop": "minecraft:sapling:3",
+      "drop": "minecraft:sapling:2",
       "chance": 0.6,
       "meshLevel": 3
     },
     {
-      "drop": "minecraft:sapling:3",
+      "drop": "minecraft:sapling:2",
       "chance": 0.8,
       "meshLevel": 4
     },
     {
-      "drop": "minecraft:apple:-1",
+      "drop": "minecraft:apple",
       "chance": 0.05,
       "meshLevel": 1
     },
     {
-      "drop": "minecraft:apple:-1",
+      "drop": "minecraft:apple",
       "chance": 0.1,
       "meshLevel": 2
     },
     {
-      "drop": "minecraft:apple:-1",
+      "drop": "minecraft:apple",
       "chance": 0.15,
       "meshLevel": 3
     },
     {
-      "drop": "minecraft:apple:-1",
+      "drop": "minecraft:apple",
       "chance": 0.2,
       "meshLevel": 4
     },
@@ -912,6 +997,8 @@
       "meshLevel": 4
     }
   ],
+    
+// Spruce Leaves
   "minecraft:leaves:1": [
     {
       "drop": "minecraft:sapling:1",
@@ -934,22 +1021,274 @@
       "meshLevel": 4
     },
     {
-      "drop": "minecraft:apple:-1",
+      "drop": "minecraft:apple",
       "chance": 0.05,
       "meshLevel": 1
     },
     {
-      "drop": "minecraft:apple:-1",
+      "drop": "minecraft:apple",
       "chance": 0.1,
       "meshLevel": 2
     },
     {
-      "drop": "minecraft:apple:-1",
+      "drop": "minecraft:apple",
       "chance": 0.15,
       "meshLevel": 3
     },
     {
-      "drop": "minecraft:apple:-1",
+      "drop": "minecraft:apple",
+      "chance": 0.2,
+      "meshLevel": 4
+    },
+    {
+      "drop": "minecraft:golden_apple:0",
+      "chance": 0.001,
+      "meshLevel": 1
+    },
+    {
+      "drop": "minecraft:golden_apple:0",
+      "chance": 0.003,
+      "meshLevel": 2
+    },
+    {
+      "drop": "minecraft:golden_apple:0",
+      "chance": 0.005,
+      "meshLevel": 3
+    },
+    {
+      "drop": "minecraft:golden_apple:0",
+      "chance": 0.01,
+      "meshLevel": 4
+    },
+    {
+      "drop": "exnihilocreatio:item_material:2",
+      "chance": 0.025,
+      "meshLevel": 1
+    },
+    {
+      "drop": "exnihilocreatio:item_material:2",
+      "chance": 0.05,
+      "meshLevel": 2
+    },
+    {
+      "drop": "exnihilocreatio:item_material:2",
+      "chance": 0.1,
+      "meshLevel": 3
+    },
+    {
+      "drop": "exnihilocreatio:item_material:2",
+      "chance": 0.2,
+      "meshLevel": 4
+    }
+  ],
+    
+// Jungle Leaves
+  "minecraft:leaves:3": [
+    {
+      "drop": "minecraft:sapling:3",
+      "chance": 0.2,
+      "meshLevel": 1
+    },
+    {
+      "drop": "minecraft:sapling:3",
+      "chance": 0.4,
+      "meshLevel": 2
+    },
+    {
+      "drop": "minecraft:sapling:3",
+      "chance": 0.6,
+      "meshLevel": 3
+    },
+    {
+      "drop": "minecraft:sapling:3",
+      "chance": 0.8,
+      "meshLevel": 4
+    },
+    {
+      "drop": "minecraft:apple",
+      "chance": 0.05,
+      "meshLevel": 1
+    },
+    {
+      "drop": "minecraft:apple",
+      "chance": 0.1,
+      "meshLevel": 2
+    },
+    {
+      "drop": "minecraft:apple",
+      "chance": 0.15,
+      "meshLevel": 3
+    },
+    {
+      "drop": "minecraft:apple",
+      "chance": 0.2,
+      "meshLevel": 4
+    },
+    {
+      "drop": "minecraft:golden_apple:0",
+      "chance": 0.001,
+      "meshLevel": 1
+    },
+    {
+      "drop": "minecraft:golden_apple:0",
+      "chance": 0.003,
+      "meshLevel": 2
+    },
+    {
+      "drop": "minecraft:golden_apple:0",
+      "chance": 0.005,
+      "meshLevel": 3
+    },
+    {
+      "drop": "minecraft:golden_apple:0",
+      "chance": 0.01,
+      "meshLevel": 4
+    },
+    {
+      "drop": "exnihilocreatio:item_material:2",
+      "chance": 0.025,
+      "meshLevel": 1
+    },
+    {
+      "drop": "exnihilocreatio:item_material:2",
+      "chance": 0.05,
+      "meshLevel": 2
+    },
+    {
+      "drop": "exnihilocreatio:item_material:2",
+      "chance": 0.1,
+      "meshLevel": 3
+    },
+    {
+      "drop": "exnihilocreatio:item_material:2",
+      "chance": 0.2,
+      "meshLevel": 4
+    }
+  ],
+    
+// Acacia Leaves
+  "minecraft:leaves2:0": [
+    {
+      "drop": "minecraft:sapling:4",
+      "chance": 0.2,
+      "meshLevel": 1
+    },
+    {
+      "drop": "minecraft:sapling:4",
+      "chance": 0.4,
+      "meshLevel": 2
+    },
+    {
+      "drop": "minecraft:sapling:4",
+      "chance": 0.6,
+      "meshLevel": 3
+    },
+    {
+      "drop": "minecraft:sapling:4",
+      "chance": 0.8,
+      "meshLevel": 4
+    },
+    {
+      "drop": "minecraft:apple",
+      "chance": 0.05,
+      "meshLevel": 1
+    },
+    {
+      "drop": "minecraft:apple",
+      "chance": 0.1,
+      "meshLevel": 2
+    },
+    {
+      "drop": "minecraft:apple",
+      "chance": 0.15,
+      "meshLevel": 3
+    },
+    {
+      "drop": "minecraft:apple",
+      "chance": 0.2,
+      "meshLevel": 4
+    },
+    {
+      "drop": "minecraft:golden_apple:0",
+      "chance": 0.001,
+      "meshLevel": 1
+    },
+    {
+      "drop": "minecraft:golden_apple:0",
+      "chance": 0.003,
+      "meshLevel": 2
+    },
+    {
+      "drop": "minecraft:golden_apple:0",
+      "chance": 0.005,
+      "meshLevel": 3
+    },
+    {
+      "drop": "minecraft:golden_apple:0",
+      "chance": 0.01,
+      "meshLevel": 4
+    },
+    {
+      "drop": "exnihilocreatio:item_material:2",
+      "chance": 0.025,
+      "meshLevel": 1
+    },
+    {
+      "drop": "exnihilocreatio:item_material:2",
+      "chance": 0.05,
+      "meshLevel": 2
+    },
+    {
+      "drop": "exnihilocreatio:item_material:2",
+      "chance": 0.1,
+      "meshLevel": 3
+    },
+    {
+      "drop": "exnihilocreatio:item_material:2",
+      "chance": 0.2,
+      "meshLevel": 4
+    }
+  ],
+    
+// Dark Oak Leaves
+  "minecraft:leaves2:1": [
+    {
+      "drop": "minecraft:sapling:5",
+      "chance": 0.2,
+      "meshLevel": 1
+    },
+    {
+      "drop": "minecraft:sapling:5",
+      "chance": 0.4,
+      "meshLevel": 2
+    },
+    {
+      "drop": "minecraft:sapling:5",
+      "chance": 0.6,
+      "meshLevel": 3
+    },
+    {
+      "drop": "minecraft:sapling:5",
+      "chance": 0.8,
+      "meshLevel": 4
+    },
+    {
+      "drop": "minecraft:apple",
+      "chance": 0.05,
+      "meshLevel": 1
+    },
+    {
+      "drop": "minecraft:apple",
+      "chance": 0.1,
+      "meshLevel": 2
+    },
+    {
+      "drop": "minecraft:apple",
+      "chance": 0.15,
+      "meshLevel": 3
+    },
+    {
+      "drop": "minecraft:apple",
       "chance": 0.2,
       "meshLevel": 4
     },
