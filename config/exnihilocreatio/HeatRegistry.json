@@ -1,12 +1,18 @@
 {
-  "hardcoreore:block_uranium": 10,
-  "thermalfoundation:fluid_pyrotheum": 15,
-  "thermalfoundation:fluid_aerotheum": 15,
-  "thermalfoundation:fluid_petrotheum": 15,
-  "minecraft:magma": 5,
-  "minecraft:fire:-1": 4,
-  "minecraft:flowing_lava:-1": 3,
-  "minecraft:lava:-1": 3,
-  "tconstruct:stone_torch": 1,
-  "minecraft:torch:-1": 1
+    "immersiveengineering:storage:5":           10,
+    "thermalfoundation:fluid_pyrotheum":        15,
+    "thermalfoundation:fluid_aerotheum":        15,
+    "thermalfoundation:fluid_petrotheum":       15,
+    "minecraft:magma":                          5,
+    "minecraft:fire:-1":                        3,
+    "minecraft:lava:-1":                        4,
+    "minecraft:end_rod":                        8,
+    "tconstruct:stone_torch":                   1,
+    "minecraft:torch":                          1,
+    "tp:nether_lava_block":                     20,
+    "mekanism:basicblock2:5":                   30,
+    "deepresonance:resonanting_crystal":        50,
+    "mysticalagraddtitions:storage:2":          25,
+    "plants2:crystal_torch":                    1,
+    "actuallyadditions:block_shock_suppressor": 32
 }

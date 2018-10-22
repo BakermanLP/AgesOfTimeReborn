@@ -18,9 +18,6 @@ mods.jei.JEI.addDescription([
 // Enchanted Book Info - previously "Vanilla"
 mods.jei.JEI.addDescription(<minecraft:enchanted_book>,"In JEI only the highest version from the enchantment is shown, the rest is only hidden, not disabled.");
 
-// Uncrafting Table - previously "UncraftingTable"
-mods.jei.JEI.addDescription(<uncraftingtable:uncrafting_table>,"This Mod is in Beta and maybe not everything works.","Mekanism as example.");
-
 // Iron Nugget Info - previously "TechReborn"
 mods.jei.JEI.addDescription(<techreborn:nuggets:23>,"Use Mekanism Oredictionificator to change the Mod Nugget to Vanilla Nugget.");
 

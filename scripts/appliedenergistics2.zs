@@ -21,6 +21,11 @@ val hvKappa = <immersiveengineering:metal_device0:2>;
 val chargingStation = <immersiveengineering:metal_device1:5>;
 val blackBalloon = <mekanism:balloon:0>;
 
+// Vals Cable
+val denseCable = <appliedenergistics2:part:76>;
+val smartCable = <appliedenergistics2:part:56>;
+val glassCable = <appliedenergistics2:part:16>;
+
 // ME Controller
 recipes.remove(meController);
 recipes.addShaped(meController*1, [
@@ -48,4 +53,14 @@ recipes.addShaped(charger*1, [
 // Sky stone
 recipes.addShapeless(<appliedenergistics2:sky_stone_block>,
     [<minecraft:dye:0>, <tp:hardened_stone>]
+);
+
+// Dense to Smart
+recipes.addShapeless(smartCable*4,
+    [denseCable]
+);
+
+// Smart to Glass
+recipes.addShapeless(glassCable,
+    [smartCable]
 );

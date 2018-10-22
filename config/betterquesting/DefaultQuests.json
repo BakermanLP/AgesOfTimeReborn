@@ -27,8 +27,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 1,
-          "name:8": "Der Beginn.",
-          "desc:8": "Am Anfang brauchst du erst mal ein paar Zutaten. Um diese zu sammeln, benötigst du das passende Werkzeug.\n\nBaue dir ein Wooden Knife und sammle ein paar Baumrinden. (Zerschlage dafür den Baum mit dem Messer).\n\n\nCrafte nun mit ein paar weitere Zutaten das Buch Herblore"
+          "name:8": "The Beginning",
+          "desc:8": "You\u0027ll need ingredients and therefore the matching tools. That\u0027s the way you start:\n\nCraft a Wooden Knife and collect some bark. (hit the tree with the knife)\n\n\nYour goal is the \"Book of Herblore\"."
         }
       },
       "tasks:9": {
@@ -135,8 +135,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Baue ein Mortar",
-          "desc:8": "Um die Zutaten für die Zauber zu verarbeiten, brauchst du Mortar und Pestle. Das Rezept sollte in deinem Zauberbuch doch zu finden sein."
+          "name:8": "Build a Mortar",
+          "desc:8": "To process ingredients, you need a Mortar \u0026 Pestle.\nThe recipe can be found in your spell book."
         }
       },
       "tasks:9": {
@@ -212,8 +212,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Züchtungen im Mondlicht",
-          "desc:8": "Zum Zaubern brauchst du spezielles Saatgut. Dieses bekommst du aus einem Steinkreis bei Vollmond. \n\nIn dem Zauberbuch Book of Herblore steht beschrieben wie du die \"Opfergaben\" anordnen musst, damit es sich bei Vollmond in das entsprechende Saatgut verwandelt.\n\n(In dem Kreis sind fast nicht zu sehende Markierungen, auf die die Blumen gesetzt/gepflanzt werden müssen.)"
+          "name:8": "Breeding in the moonlight",
+          "desc:8": "To use the magic, find a Stonehenge in the world. It\u0027s usable during the night. (Full moon is required)\n\nYou can find the layout for every spell in the \"Book of Herblore\".\n\n(Info: The Stonehenge contains some hard-to-see markings for the flowers)"
         }
       },
       "tasks:9": {
@@ -326,8 +326,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Stroh",
-          "desc:8": "Nun brauchst du eine Schamanenhütte. Diese wird mit Stroh gedeckt. \n\nAls erstes baust du dir eine Schere, damit du etwas Gras schneiden kannst. Dieses wird dann im Ofen (Furnace) getrocknet. \n\nAnschließend muss es nur noch gebündelt werden."
+          "name:8": "Straw",
+          "desc:8": "A Shamans Hut is findable in the world but you only need the straw from the roof which is craftable.\n\nCraft a §lShear§r, destroy some §n§3§2Grass§r§r and dry it in the furnace.\n\nFinally, bundle it together."
         }
       },
       "tasks:9": {
@@ -420,8 +420,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Zauberzutaten",
-          "desc:8": "Einen Zauberstab hast du nun schon. Jedoch verfliegt der Zauber schnell, wenn du keine \"Munition\" dabei hast.\n\nDafür benötigst du einen Beutel (Pouch). In diesen können bis zu 2 Stacks von einer Sache gefüllt werden. \n\nMit Hilfe des Pedal befüllst du den Beutel. Welche Materialien du dabei haben solltest, verrät dir der jeweilige Zauber."
+          "name:8": "Magic ingredients",
+          "desc:8": "Your Wand discharges slowly, so you\u0027ll need some ammo.\n\nYou can store your stuff in a \"Pouch\", which is very practical.\n\nIt can be filled with \"Pedal\". Check your book for what materials you should have with you."
         }
       },
       "tasks:9": {
@@ -491,8 +491,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Der Zauberstab",
-          "desc:8": "Um Zaubern zu können, benötigst du einen Zauberstab (Staff).\n\nJedoch brauchst du zu erst eine Basis (Imbuer).\n\nLege den Zauberstab auf die Basis und füge den Zauber-Staub (Dust) in die Basis ein. Warte, bis der Zauberstab aufgeladen ist. Nun kannst du mit der Zauberei loslegen."
+          "name:8": "The Wand",
+          "desc:8": "To use the magic, you need the Staff from Roots 2.\n\nBut first, the \"Imbuer\" is required.\n\nPlace the Wand on the base and add some dust to it.\nThen wait a bit until the wand is fully charged so can finally start with your magic."
         }
       },
       "tasks:9": {
@@ -596,8 +596,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 1,
-          "name:8": "Die \"Tanzanleitung\"",
-          "desc:8": "Willkommen in der Zeit der Indianer.\n\nDamit du alles richtig machst, brauchst du eine \"Tanzanleitung\". Die sollte schnell gecraftet sein."
+          "name:8": "The \"dancing guide\"",
+          "desc:8": "Welcome in the age of Cowboys \u0026 Indians.\n\nThe \"Totempedia\" is the guide for this mod, craft it!"
         }
       },
       "tasks:9": {
@@ -659,8 +659,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Werkzeuge",
-          "desc:8": "In einem jedem Indianerdorf steht mindestens ein Totempfahl. Dafür benötigst du als erstes die entsprechenden Werkzeuge.\n\nSobald du sie hast, stellst du ein Wood auf den Boden. Nimmst das Messer und \"schnitze\" den Pfahl zurecht. "
+          "name:8": "Carving tools",
+          "desc:8": "In every Indian Village is a totem pole, you need carving tools for it.\n\nPlace some logs at a good position and edit them with your tools."
         }
       },
       "tasks:9": {
@@ -729,7 +729,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Tipi",
-          "desc:8": "Ein gescheiter Indianer hat auch ein ordentliches Tipi. Schau in die Anleitung und fertige dir eines an."
+          "desc:8": "A real Indian has a good Tipi, check the Manuel and complete it."
         }
       },
       "tasks:9": {
@@ -789,8 +789,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 1,
-          "name:8": "Das Buch",
-          "desc:8": "Wie überall gibt es ein allwissendes Buch. Stelle es her und mach dich doch mal schlau."
+          "name:8": "Master Book",
+          "desc:8": "This Book contains all info about the mod."
         }
       },
       "tasks:9": {
@@ -852,8 +852,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Musikinstrumente",
-          "desc:8": "Jedoch hilft dir ein Totempfahl alleine nicht weiter. Erst mit den richtigen, heiligen Gesängen und Tänzen erhältst du die \"Geschenke der Götter\"."
+          "name:8": "Musical instruments",
+          "desc:8": "The Totem Pole alone is not very useful (apart from the look).\nWith the right sound, atmosphere, dance \u0026 voice, you will receive your \"present of the gods\"."
         }
       },
       "tasks:9": {
@@ -934,7 +934,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Red Cedar Sapling",
-          "desc:8": "Probier noch einen Tanz aus. Verzaubere einen Sapling in einen Zeder Sapling durch deine Gesänge und Tänze des \"Zaphkiel Waltz\"."
+          "desc:8": "Try more dancing\n\nHow about the \"Zaphkiel Waltz\"?\nWith this dance you can enchant your Saplings to \"Zeder Saplings\"."
         }
       },
       "tasks:9": {
@@ -993,8 +993,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Energiegeladene Flöte",
-          "desc:8": "Mit Tänzen und Gesang kannst du die Macht deiner Flöte verstärken. Versuch es doch einfach mal.\n\n\n\n(Flut Imbutation)"
+          "name:8": "Energized Flute",
+          "desc:8": "You can improve your default §nFlute§r into a better one with \"Serenade for Syrinx\"."
         }
       },
       "tasks:9": {
@@ -1053,8 +1053,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Buch der Zaubersprüche",
-          "desc:8": "Schamanen können zaubern. Ihre Sprüche stehen in einem geheimen Buch geschrieben. Fertige dir doch auch ein Buch für deine Zaubersprüche an."
+          "name:8": "Your book of spells",
+          "desc:8": "Shamans are Wizards, their spells are written in books."
         }
       },
       "tasks:9": {
@@ -1116,8 +1116,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Runensteine",
-          "desc:8": "Im Steinkreis kann man auch noch Runensteine erstellen. Im Book of Herblore steht geschrieben wie es geht.\n\nDiese brauchst später für deinen eigenen Beschwörungskreis."
+          "name:8": "Runestones",
+          "desc:8": "In the Stonehenge you can also create §7Runestones§r, read in the \"Book of Herblore\" for how it works.\n\nYou will need this later, for your own incantation circle."
         }
       },
       "tasks:9": {
@@ -1184,7 +1184,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Book of the Natural Arts",
-          "desc:8": "Nun brauchst du noch das letzte Zauberbuch. Das mit den geheimen Beschwörungen im magischen Kreis."
+          "desc:8": "The last Book is in the row, the one with the secret magic in the magical circle."
         }
       },
       "tasks:9": {
@@ -1249,8 +1249,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Lagerfeuer",
-          "desc:8": "In die Mitte einens jeden Beschwörungskreises gehört ein Feuer. Doch dafür brauchst du eine zeremonielle Feuerstelle. \n\nDiese ist aber schnell und einfach gebaut."
+          "name:8": "Campfire",
+          "desc:8": "In every incantation circle belongs a Campfire, a ceremonial Campfire.\n\nHow to make it? Look inside your book, its quick and easy."
         }
       },
       "tasks:9": {
@@ -1324,8 +1324,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 1,
-          "name:8": "Es werde Licht.",
-          "desc:8": "Es ist dunkel und kalt. Du brauchst also Kohle.\n\n\nDafür brauchen wir ein paar Bäume, ein Feuerzeug und eine Grube.\n\nMachen wir uns ans Werk.\n\nBaue eine Grube, lege die Log-Piles hinein. Decke alles mit Erde oder Stein zu. Zünde vor dem letzen Block noch die Logs mit einem Feuerzeug an.\n\nNun must du nur noch warten. Am nächsten Tag kannst du die Holzkohle abbauen."
+          "name:8": "The Godfather spoke \"I would be Light\"",
+          "desc:8": "Its cold and you are captured in the darkness, so, you need some coal.\n\n\nFor this you need:\n- a few Logs\n- 1 Flint \u0026 Steel\n- a pit\n\nLet\u0027s get started:\n\nDig a pit -\u003e put some Log-Piles inside -\u003e lock it with some Dirt or Stone (but ignite the last Log-Pile, before you close it completely)\n\nNow wait about one in-game day and you can collect your Charcoal."
         }
       },
       "tasks:9": {
@@ -1426,8 +1426,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 1,
-          "name:8": "Der AE Grinder ?!",
-          "desc:8": "§r§f§rDer§f §§§rGrinder.\n§rEine §r§rein§f§rfache §rArt §rvon §reffizientem §rArbeiten.\n\n§rSchau §rnach§r, §rwas §rdu §rdamit §rso §ralles §ranfangen §rkannst§r. §r:§r)§r"
+          "name:8": "The AE2 Grinder !?",
+          "desc:8": "The Grinder.\nAn easy way for an efficient work flow.\n\nTake a look into it, it can do a lot."
         }
       },
       "tasks:9": {
@@ -1495,8 +1495,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Ein zusatzt der Schmelz geschwindigkeit.",
-          "desc:8": "Eine Art des effizientem verarbeitens haben wir ja schon gebaut.\n\nNun fehlt das §cBrennen."
+          "name:8": "An upgrade for the smelting speed",
+          "desc:8": "We already have one type of efficient machine.\n\nNow, we need to §4smelt§r the result of it."
         }
       },
       "tasks:9": {
@@ -1564,8 +1564,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Das Schwein.",
-          "desc:8": "Schweine sind reinliche Tiere und lieben es, sich im Dreck zu suhlen, um Parasiten loszuwerden. \n\nAlso musst du Mud herstellen damit die Tiere sich wohlfühlen.  \nIch denke 6 sollten für den Anfang reichen."
+          "name:8": "The Pig \"Edgar\".",
+          "desc:8": "§7§1§fPigs are cleanly animals and they love it to root in the dirt (to lose parasites of course).\n\nMud is the favourite ground for them, on this they feel good.\n6 should be enough. (for the moment)"
         }
       },
       "tasks:9": {
@@ -1627,8 +1627,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Eine Kuh macht muh..",
-          "desc:8": "Eine Kuh macht muh..viele Kühe machen Mühe..\n\nAber da du Milch brauchst, ist uns das egal. Also sammel dir ein paar Kühe."
+          "name:8": "Sounds of a cow.",
+          "desc:8": "1 cow is silent, 2 cows are okay but more is loud.\n\nBut you need milk, so milking a cow is the goal."
         }
       },
       "tasks:9": {
@@ -1690,8 +1690,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Ei oder Huhn?",
-          "desc:8": "Wer war zuerst? Das Ei oder das Huhn?\n\nDas ist dir doch egal. Fange mit dem Nest an. Um das Nest legst du Seeds auf den Boden. \n\nUnd bald hast du Eier und Hühner..oder anderes Federvieh."
+          "name:8": "Egg or Chicken ?",
+          "desc:8": "Who came first ? The §nEgg§r or the §nChicken§r ?\n\nNevermind, simply start with a Nest and place some Seeds around.\n\nAnd soon you will have some Chickens ... or other things with feathers. :/"
         }
       },
       "tasks:9": {
@@ -1770,8 +1770,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Alles Käse.",
-          "desc:8": "Jetzt hast du Milch. Nun kannst du dir Käse machen.  Du brauchst eine Käseform und natürlich einen Eimer Milch.\n\nUm Käse zu machen, musst du die Form hinstellen und mit Milch füllen. Es kann auch Ziegen- oder Schafsmilch sein. Hilft aber nicht bei der Quest.\n\nUnd voilà hast du etwas Käse. "
+          "name:8": "Everything is cheese.",
+          "desc:8": "Now milk is in your possession, so cheese is close. You need a Cheese Shape and a Milk Bucket.\n\nTo create cheese, fill the shape with the milk, other kinds of milk are possible, but they don\u0027t help to complete this quest.\n\nLet the magic begin and voilà you have §eCheese§r.\n"
         }
       },
       "tasks:9": {
@@ -1869,8 +1869,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 1,
-          "name:8": "Grundregeln der Tierhaltung.",
-          "desc:8": "Für das Halten von Tieren sind ein paar Grundregeln zu beachten.\n\nDie verschiedenen Tiere müssen glücklich sein. Dafür brauchen wir ein paar Items. Fangen wir mit Trögen an. Für Futter und Wasser."
+          "name:8": "Basic animals rules",
+          "desc:8": "A few basic rules for your animals.\n\n1. they have to be happy!\nTo do this, you will need some troughs. (for food and water)"
         }
       },
       "tasks:9": {
@@ -1896,7 +1896,7 @@
           "rewards:9": {
             "0:10": {
               "id:8": "minecraft:leaves",
-              "Count:3": 2,
+              "Count:3": 8,
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -1934,8 +1934,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Noch mehr Viecher.",
-          "desc:8": "Schweine, Kühe und Hühner sind nicht die einzigen Tiere die es gibt.\n\nHamster, Ziegen, Schafe, Hasen und viel mehr bereichern unsere Welt.\n\nJedes Tier hat eigenes Futter und Bedürfnisse.\n\nAm besten hast du für den Notfall für jedes Tier etwas zu Hause."
+          "name:8": "More animals",
+          "desc:8": "Pigs, Cows \u0026 Chickens are not alone.\n\nHamsters, Goats, Sheep \u0026 Rabbits and more enrich our world.\n\nEvery animal has there own food and requirements.\n\nIn case of emergency, have some food on stock. (for all of them)"
         }
       },
       "tasks:9": {
@@ -2007,8 +2007,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Mästen",
-          "desc:8": "Nach einem Schlammbad wollten Schweine was fressen. Mit ein bisschen Milch und Gemüse machst du lecker Schweine -\"Fraß\".\n\nDen Eimer kannst du einfach in einen Trog schütten. Guten Hunger."
+          "name:8": "Feed the beast",
+          "desc:8": "After a mud party, pigs want something to eat. With some vegetables and milk you can produce pig - \"food\".\n\nThe bucket is your tool, just fill it in the trough."
         }
       },
       "tasks:9": {
@@ -2078,8 +2078,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Trüffel",
-          "desc:8": "Wenn deine Schweine glücklich und satt sind, suchen sie für dich Trüffel. \n\nDaraus lässt sich eine herrliche Suppe herstellen.\n\nSollte dein Schwein im Stall keine Trüffel finden, nimm es an die Leine und suche im Forest nach Trüffeln."
+          "name:8": "Truffles.",
+          "desc:8": "When Pigs are happy and fed up, they search some truffles for you.\n\nA delicious soup is made out of this.\n\nIf there are no truffles in the stable, take your pig with you to an journey."
         }
       },
       "tasks:9": {
@@ -2158,8 +2158,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Ei Ei Ei",
-          "desc:8": "Wenn wir Vögel haben und ein Nest, bekommen wir auch bald Eier.\n\nSammle ein paar und bereite dir anschließend ein Omelette daraus zu."
+          "name:8": "Eggs ! ! ! ...",
+          "desc:8": "If we have birds and a nest, we get some eggs in the near future.\n\nCollect some and cook delicious Omelettes."
         }
       },
       "tasks:9": {
@@ -2238,8 +2238,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Alles Käse.",
-          "desc:8": "Jetzt hast du Milch. Nun kannst du dir Käse machen. Du brauchst eine Käseform und natürlich einen Eimer Milch.\n\nUm Käse zu machen, musst du die Form hinstellen und mit Milch füllen. Es geht auch Ziegen- oder Schafsmilch. Hilft dir aber nicht bei der Quest.\n\nUnd violà hast du etwas Käse."
+          "name:8": "Everything is cheese again?",
+          "desc:8": "Now milk is in your possession, so cheese is close. You need a Cheese Shape and a Milk Bucket.\n\nTo create cheese, fill the shape with the milk, other kinds of milk are possible, but they don\u0027t help to complete this quest.\n\nLet the magic begin and voilà you have §eCheese§r.\n"
         }
       },
       "tasks:9": {
@@ -2337,8 +2337,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Die etwas einfachere Art.",
-          "desc:8": "Upgrades haben die beiden zwar nicht, aber auch der Vanilla Furnace kann geupgraded werden.\n\nBau einen und teste es, jedoch bedenke, auch der Block braucht §3Strom."
+          "name:8": "The easier way",
+          "desc:8": "The other 2 blocks don\u0027t have any upgrades, so we just upgrade the Vanilla Furnace.\n\nBuild one of these and place it next to a furnace.\nBut don\u0027t forget: this block needs some electrical power."
         }
       },
       "tasks:9": {
@@ -2423,8 +2423,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Die Siebe.",
-          "desc:8": "Nun hast du die Basis für den Filter.\n\n\nNun brauchst du nur noch die Netze. Wenn du den Filter einen Block tief unter die Wasseroberfläche gesetzt hast, siehst du im Wasser 4 Stäbe. Dazwischen spannen wir das Netz.\nEs gibt 3 verschiedene Weiten und 3 verschiede Stufen der Haltbarkeit.\n\nTeste aus welche für dich das Beste ist."
+          "name:8": "Nets",
+          "desc:8": "Now you have the basic stuff for Filters.\n\n\nWell, the next step is a Net, or more. Place the Filter 1 block deep under the water, between the Protruding Sticks you have to clamp your net.\nThere are 3 different sizes with 3 different durabilities.\n\nTest out, which one is the best for you."
         }
       },
       "tasks:9": {
@@ -2496,8 +2496,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 1,
-          "name:8": "Sieben für den Anfang.",
-          "desc:8": "Wenn du keine Mine hast, ist das ein guter Weg für den Anfang, ein wenig Material zu erhalten."
+          "name:8": "Sieves for the start",
+          "desc:8": "You can find no caves? Then this is a good start to collect some materials."
         }
       },
       "tasks:9": {
@@ -2612,8 +2612,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Material sammeln im Wasser",
-          "desc:8": "Wenn dir das Sieben zu anstrengend ist. Oder aber du einfach keine Lust hast, nimm den Waterstrainer..\n\nEr fischt dir Materialien aus dem Wasser."
+          "name:8": "Materials in the water",
+          "desc:8": "To sieve your stuff is to hard ? Or you\u0027re just to lazy? Then use the Waterstrainer mod!\n\nIt can find a lot in the water."
         }
       },
       "tasks:9": {
@@ -2675,8 +2675,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Fisch",
-          "desc:8": "Mit dem Filter kannst du nicht nur Material sammeln. Auch Fisch und anderes verfängt sich gerne darin.\n\nAber nur, wenn du einen Köder benutzt."
+          "name:8": "Fish",
+          "desc:8": "The Filter is universal, it can collect a lot of loot. And Fish, delicious fish. :)\n\nBut only with a bait!"
         }
       },
       "tasks:9": {
@@ -2769,8 +2769,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Fisch die 2te.",
-          "desc:8": "Nun hast du Köder und einen Topf. Füge beides im Craftingfeld zusammen.\n\nNur noch das Fischnetz und wir können den Filter bestücken und Fische fangen."
+          "name:8": "Fish #2",
+          "desc:8": "Combine Bait and a Pot in a crafting table.\n\nTogether with a Net we can start the §7adventure§f."
         }
       },
       "tasks:9": {
@@ -2844,8 +2844,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Effizient?",
-          "desc:8": "Es gibt ein Gerät, das dir verrät, ob dein Filter effizient genug arbeitet.\n\nTeste es einfach aus."
+          "name:8": "Efficiency?",
+          "desc:8": "The mod has a tool to check your efficiency-level.\n\nTest it!"
         }
       },
       "tasks:9": {
@@ -2908,8 +2908,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Noch mehr Käse.",
-          "desc:8": "Damit du deinen Käse klein schneiden kannst, brauchst du ein gutes Messer. "
+          "name:8": "More cheese",
+          "desc:8": "To cut your cheese, a good knife would be appropriate."
         }
       },
       "tasks:9": {
@@ -2969,8 +2969,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 1,
-          "name:8": "Der Start",
-          "desc:8": "Für den Anfang benötigen wir ein bisschen Material. Sammle ein paar Dinge. Für Einige davon musst du in den Nether ziehen und sie dort abbauen."
+          "name:8": "The beginning",
+          "desc:8": "For the beginning, we need some materials. Collect some in the §8Nether§8§r, but be careful!"
         }
       },
       "tasks:9": {
@@ -3047,8 +3047,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Saatgut der Beginner",
-          "desc:8": "Fangen wir mit ein paar einfachen Aufgaben der Herstellung an. Such dir ausreichend Material zusammen und produziere ein wenig Saatgut.\n\nPs: Der verlangte Seed ist ein §eT1 Seed."
+          "name:8": "Seeds for the start",
+          "desc:8": "Let\u0027s start simple, collect some resources for seeds\n\nInfo: the required §nSeed§r is a §eT1 Seed."
         }
       },
       "tasks:9": {
@@ -3167,7 +3167,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Level 2",
-          "desc:8": "Um das Saatgut auf Level 2 zu bringen, brauchst du ein wenig Vorbereitung. Baue dir einen Infusion Crystal und \"Level\" deine Essence.\n\nPs: Der verlangte Seed ist ein §aT2 Seed."
+          "desc:8": "Level 2 seeds are a bit more expensive, prepare yourself.\nCraft an Infusion Crystal to upgrade your seeds.\n\nInfo: the required §nSeed§r is a § §aT2 Seed."
         }
       },
       "tasks:9": {
@@ -3260,8 +3260,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Magischer Ofen",
-          "desc:8": "Es gibt einen magischen Ofen. Dieser ist viel schneller als der Normale. Also testen wir es mal aus."
+          "name:8": "Magic furnace",
+          "desc:8": "A magical furnace, faster, better, stronger, harder... oh, wrong topic."
         }
       },
       "tasks:9": {
@@ -3286,12 +3286,8 @@
           "index:3": 0,
           "rewards:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
-              "Count:3": 5,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "mysticalagriculture:inferium_essence"
-              },
+              "id:8": "mysticalagriculture:crafting",
+              "Count:3": 8,
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -3327,8 +3323,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "noch ein bisschen mehr schneller",
-          "desc:8": "No Description"
+          "name:8": "Faster than light.",
+          "desc:8": "Ridiculous speed!"
         }
       },
       "tasks:9": {
@@ -3353,14 +3349,10 @@
           "index:3": 0,
           "rewards:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
-              "Count:3": 5,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "mysticalagriculture:supremium_essence"
-              },
+              "id:8": "mysticalagriculture:crafting",
+              "Count:3": 8,
               "OreDict:8": "",
-              "Damage:3": 0
+              "Damage:3": 4
             }
           }
         }
@@ -3394,8 +3386,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "bisschen Schneller",
-          "desc:8": "Der neue Ofen ist gut. Aber noch nicht schnell genug. Level ihn auf Level 2 hoch für mehr speed."
+          "name:8": "And FASTER",
+          "desc:8": "The new furnace is good, but just \"good\" is not good enough. Upgrade it to level 3!"
         }
       },
       "tasks:9": {
@@ -3420,14 +3412,10 @@
           "index:3": 0,
           "rewards:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
-              "Count:3": 5,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "mysticalagriculture:intermedium_essence"
-              },
+              "id:8": "mysticalagriculture:crafting",
+              "Count:3": 8,
               "OreDict:8": "",
-              "Damage:3": 0
+              "Damage:3": 2
             }
           }
         }
@@ -3461,8 +3449,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "noch ein bisschen Schneller",
-          "desc:8": "No Description"
+          "name:8": "85% FASTER",
+          "desc:8": "Be §3§9Sonic§r!"
         }
       },
       "tasks:9": {
@@ -3487,14 +3475,10 @@
           "index:3": 0,
           "rewards:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
-              "Count:3": 5,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "mysticalagriculture:superium_essence"
-              },
+              "id:8": "mysticalagriculture:crafting",
+              "Count:3": 8,
               "OreDict:8": "",
-              "Damage:3": 0
+              "Damage:3": 3
             }
           }
         }
@@ -3528,8 +3512,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "ganz dolle schnell",
-          "desc:8": "No Description"
+          "name:8": "... too ... fast ... !",
+          "desc:8": "Speed of light is a joke!"
         }
       },
       "tasks:9": {
@@ -3554,12 +3538,8 @@
           "index:3": 1,
           "rewards:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
-              "Count:3": 10,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "mysticalagriculture:supremium_essence"
-              },
+              "id:8": "mysticalagradditions:insanium",
+              "Count:3": 4,
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -3596,7 +3576,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Level 5",
-          "desc:8": "So! Das letze Level steht an. Auch dieses ist für die Weiterentwicklung wichtig.\n\nPs: Der verlangte Seed ist ein §4T5 Seed."
+          "desc:8": "The last level? Hmm, craft it and you will find out.\n\nInfo: the required §nSeed§r is a §4T5 Seed."
         }
       },
       "tasks:9": {
@@ -3673,7 +3653,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Level 3",
-          "desc:8": "Nach der 2 Folgt die 3. Also werte die Essence weiter auf. Wie es geht, hast du ja schon gelernt.\n\nPs: Der verlangte Seed ist ein §6T3 Seed."
+          "desc:8": "You are intelligent so you can calculate. Level 3 seeds are waiting for you.\n\nInfo: the required §nSeed§r is a §6T3 Seed."
         }
       },
       "tasks:9": {
@@ -3750,7 +3730,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Level 4",
-          "desc:8": "Level 4 brauchst du auch für verschieden Samen. Also stell welche her und erhalte weitere Ressourcen.\n\nPs: Der verlangte Seed ist ein §bT4 Seed."
+          "desc:8": "Level 4 is needed for a lot of plants, so craft a good amount from them and get more resources.\n\nInfo: the required §nSeed§r is a §bT4 Seed."
         }
       },
       "tasks:9": {
@@ -3830,7 +3810,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Level 6",
-          "desc:8": "No Description"
+          "desc:8": "This is the ultimate level, the mod has more stuff for you, look in JEI and find out what new items are available now."
         }
       },
       "tasks:9": {
@@ -3875,6 +3855,18 @@
               "Damage:3": 0
             }
           }
+        },
+        "1:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 75
+            }
+          }
         }
       }
     },
@@ -3906,8 +3898,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Schneller",
-          "desc:8": "No Description"
+          "name:8": "FASTER!",
+          "desc:8": "§1F§2A§3S§4T§5E§6R§7.§r"
         }
       },
       "tasks:9": {
@@ -3932,14 +3924,10 @@
           "index:3": 0,
           "rewards:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
-              "Count:3": 5,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "mysticalagriculture:prudentium_essence"
-              },
+              "id:8": "mysticalagriculture:crafting",
+              "Count:3": 8,
               "OreDict:8": "",
-              "Damage:3": 0
+              "Damage:3": 1
             }
           }
         }
@@ -3972,7 +3960,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "New Quest",
-          "desc:8": "No Description"
+          "desc:8": "No Description. \u003c- This must be bug for sure!"
         }
       },
       "tasks:9": {},
@@ -4006,8 +3994,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Monster Zutat",
-          "desc:8": "Hin und wieder lassen Monster etwas fallen. Das brauchst du für ein paar Saaten."
+          "name:8": "Monster 2 go",
+          "desc:8": "Every registered mob can drop some chunks of their life.\n\nThese are rare and good for plants. :)"
         }
       },
       "tasks:9": {
@@ -4086,8 +4074,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Mehr Pre-Heater",
-          "desc:8": "Auch der §8Coke Oven §rhat Pre-Heater, nutze sie!"
+          "name:8": "Pre-heater v2",
+          "desc:8": "To improve the speed, craft 2 Pre-heaters and place one on each side.\nNow connect them with power (on top, middle block) and you\u0027re done."
         }
       },
       "tasks:9": {
@@ -4149,8 +4137,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Die Essence der Natur",
-          "desc:8": "Um dir zu erklären wie du die Essencen verwendest, hier eine kleine Einführung.\n\nSammle dir ein Stapel Essence der Natur und erstelle daraus ein paar Kleinigkeiten."
+          "name:8": "Nature essence.",
+          "desc:8": "One item with many possible applications."
         }
       },
       "tasks:9": {
@@ -4234,9 +4222,9 @@
             "ForgeCaps:10": {
               "customnpcs:itemscripteddata:10": {}
             },
-            "id:8": "xreliquary:mob_ingredient",
+            "id:8": "mekanism:balloon",
             "Count:3": 1,
-            "Damage:2": 3,
+            "Damage:2": 4,
             "OreDict:8": ""
           },
           "globalshare:1": 0,
@@ -4244,76 +4232,44 @@
           "partysinglereward:1": 0,
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
-          "ismain:1": 1,
-          "name:8": "Zutaten",
-          "desc:8": "Es gibt Relikte und Zaubertränke. Und einiges anderes.\n\nDoch um zu diesen zu gelangen ist es ein weiter Weg. Dieser fängt mit dem Sammeln von Monster - Teilen an."
+          "ismain:1": 0,
+          "name:8": "Start your technical Journey",
+          "desc:8": "We start easy.\n\nCelebrate the mod with some §cR§c§2G§1B§f balloons!"
         }
       },
       "tasks:9": {
         "0:10": {
           "partialMatch:1": 1,
-          "autoConsume:1": 0,
-          "groupDetect:1": 0,
           "ignoreNBT:1": 0,
           "index:3": 0,
-          "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "xreliquary:mob_ingredient",
-              "Count:3": 8,
-              "OreDict:8": "",
-              "Damage:3": 3
-            },
-            "1:10": {
-              "id:8": "xreliquary:mob_ingredient",
-              "Count:3": 5,
-              "OreDict:8": "",
-              "Damage:3": 11
-            },
-            "2:10": {
-              "id:8": "xreliquary:mob_ingredient",
+              "id:8": "mekanism:balloon",
               "Count:3": 1,
               "OreDict:8": "",
-              "Damage:3": 7
-            }
-          },
-          "taskID:8": "bq_standard:retrieval"
-        },
-        "1:10": {
-          "partialMatch:1": 1,
-          "ignoreNBT:1": 0,
-          "index:3": 1,
-          "requiredItems:9": {
-            "0:10": {
-              "id:8": "xreliquary:mob_ingredient",
-              "Count:3": 2,
+              "Damage:3": 1
+            },
+            "1:10": {
+              "id:8": "mekanism:balloon",
+              "Count:3": 1,
               "OreDict:8": "",
-              "Damage:3": 13
+              "Damage:3": 2
+            },
+            "2:10": {
+              "id:8": "mekanism:balloon",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 4
             }
           },
           "taskID:8": "bq_standard:crafting"
         }
       },
-      "rewards:9": {
-        "0:10": {
-          "rewardID:8": "bq_standard:item",
-          "index:3": 0,
-          "rewards:9": {
-            "0:10": {
-              "id:8": "xreliquary:mob_ingredient",
-              "Count:3": 5,
-              "OreDict:8": "",
-              "Damage:3": 4
-            }
-          }
-        }
-      }
+      "rewards:9": {}
     },
     "56:10": {
       "questID:3": 56,
-      "preRequisites:11": [
-        55
-      ],
+      "preRequisites:11": [],
       "properties:10": {
         "betterquesting:10": {
           "issilent:1": 0,
@@ -4338,7 +4294,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Cauldron",
-          "desc:8": "Du kannst Zaubertränke brauen. Mächtige Magie.\n\nDafür musst du zuerst einen Cauldron herstellen."
+          "desc:8": "You can brew potions, its a strong magic.\n\nCreate a Cauldron first!"
         }
       },
       "tasks:9": {
@@ -4401,7 +4357,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Mortar",
-          "desc:8": "Mit einem Kessel alleine kann man nicht brauen. Die Zutaten müssen noch vorbereitet werden."
+          "desc:8": "With the Cauldron alone, you can\u0027t brew, the ingredients must be prepared!"
         }
       },
       "tasks:9": {
@@ -4437,9 +4393,7 @@
     },
     "58:10": {
       "questID:3": 58,
-      "preRequisites:11": [
-        55
-      ],
+      "preRequisites:11": [],
       "properties:10": {
         "betterquesting:10": {
           "issilent:1": 0,
@@ -4463,8 +4417,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Altar des Lichtes",
-          "desc:8": "Der Altar des Lichtes.\n\nEin interessantes Item, mit dem man Glowstone wachsen lassen kann."
+          "name:8": "Altar of light",
+          "desc:8": "The Altar of light.\n\nAn interesting item, to grow §eGlowstone§r."
         }
       },
       "tasks:9": {
@@ -4493,6 +4447,18 @@
               "Count:3": 5,
               "OreDict:8": "",
               "Damage:3": 8
+            }
+          }
+        },
+        "1:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "minecraft:glowstone_dust",
+              "Count:3": 8,
+              "OreDict:8": "",
+              "Damage:3": 0
             }
           }
         }
@@ -4526,8 +4492,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Gun",
-          "desc:8": "Eine neue Waffe.\n\nBau dir eine Pistole und jage dir weitere Zutaten für deine Tränke und Zauber."
+          "name:8": "Desert Eagle ... or simply a gun.",
+          "desc:8": "A new weapon has appeared.\n\nConstruct a weapon and hunt with it for new materials."
         }
       },
       "tasks:9": {
@@ -4616,8 +4582,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Vial zum abfüllen.",
-          "desc:8": "Zum Abfüllen brauchst du Flaschen. Bau dir ein paar auf Vorrat."
+          "name:8": "Vial for bottling",
+          "desc:8": "To fill your potions, you need Vials/Bottles. Craft a good amount!"
         }
       },
       "tasks:9": {
@@ -4655,9 +4621,7 @@
     },
     "61:10": {
       "questID:3": 61,
-      "preRequisites:11": [
-        55
-      ],
+      "preRequisites:11": [],
       "properties:10": {
         "betterquesting:10": {
           "issilent:1": 0,
@@ -4681,8 +4645,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Lilipath",
-          "desc:8": "Die Relikte.\n\nNun übst du einige der Relikte herzustellen. Fang mit etwas leichtem an."
+          "name:8": "Lilipad",
+          "desc:8": "Relics.\n\nStart simple and increase your learning curve.\n\nInfo: The §2Lilipad of Fertility§r lets your plants grow faster."
         }
       },
       "tasks:9": {
@@ -4744,8 +4708,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Zauberfackel",
-          "desc:8": "Ein weiteres Relikt ist die Zauberfackel.  Sie hilft dir Bereiche von Monstern frei zu halten, bzw. drin zu halten."
+          "name:8": "Magic Torches",
+          "desc:8": "A additional Relic is the \"Interdiction Torch\".\nThis Torch repels mobs around it."
         }
       },
       "tasks:9": {
@@ -4774,6 +4738,12 @@
               "Count:3": 2,
               "OreDict:8": "",
               "Damage:3": 11
+            },
+            "1:10": {
+              "id:8": "xreliquary:interdiction_torch",
+              "Count:3": 4,
+              "OreDict:8": "",
+              "Damage:3": 0
             }
           }
         }
@@ -4807,8 +4777,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Das Podest.",
-          "desc:8": "Mit dem Podest lassen sich viele verschiedene Dinge machen.\n\nAusgerüstet mit einem Schwert tötet es Monster in der Nähe (solange bis die Haltbarkeit vom Schwert weg ist). Und es gibt noch viele weitere Anwendungen."
+          "name:8": "The pedestal",
+          "desc:8": "The pedestal is a universal item.\n\nAs an example:\nEquiped with a sword, it can kill mobs around it."
         }
       },
       "tasks:9": {
@@ -4885,8 +4855,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Der Umhang.",
-          "desc:8": "Du kannst dir einen Tarnumhang herstellen. Mit ein bisschen Wolle und ein paar Zauberzutaten kannst du einen Umhang weben, der dich nachts vor den Monstern versteckt."
+          "name:8": "Capes",
+          "desc:8": "Like the \"Cloak of Invisibility\" from Harry Potter, this cape hides you from mobs in the night.\nYou only need some Wool and magic ingredients to craft it."
         }
       },
       "tasks:9": {
@@ -4963,8 +4933,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Die Munition.",
-          "desc:8": "Damit du Schießen kannst brauchst du erst mal Muniton. Die gibt es nicht nur in Standard sondern auch mit verschiedenen Effekten."
+          "name:8": "Ammo",
+          "desc:8": "Ammo is diverse:\n- Default ammo\n- Ammo with some effects"
         }
       },
       "tasks:9": {
@@ -5063,8 +5033,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Trank Zutaten",
-          "desc:8": "Mit dem Staub solltest du nun alle Zutaten zusammen haben, um dir Tränke zu brauen. Probier einfach mal 2 aus.\n\n(night vision, regeneration)"
+          "name:8": "Potion ingredients",
+          "desc:8": "With the acquired dust, you should have all ingredients together to brew potions now.\nTry 2 different types:\n- Regeneration\n- Absorption"
         }
       },
       "tasks:9": {
@@ -5206,8 +5176,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 1,
-          "name:8": "Das Buch der Ingenöre",
-          "desc:8": "Das Buch der Ingeniereure.\n\n\nStelle dir das Buch her um alles Notige wissen zu haben."
+          "name:8": "Engineer\u0027s Manuel - The heart of IE",
+          "desc:8": "The book of engineer\u0027s.\n\nInside this book, you can find the universe. (of IE)"
         }
       },
       "tasks:9": {
@@ -5269,8 +5239,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Werkzeuge",
-          "desc:8": "Jeder gescheite Ingenieur braucht Werkzeug zum Arbeiten.\nLeg dir ein paar zu."
+          "name:8": "IE Tools",
+          "desc:8": "A good engineer can work solo, but a God engineer uses tools."
         }
       },
       "tasks:9": {
@@ -5338,8 +5308,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Der Coke Oven.",
-          "desc:8": "Um weiter zu arbeiten brauchst du einen Coke Oven.\n\nDafür must du insgesamt 27 Coke Bricks herstellen. Diese werden dann in 3*3*3 augebaut und zum Schluss nur noch mit dem Hammer draufhauen."
+          "name:8": "Coke Oven",
+          "desc:8": "To work further, Coal Coke is required.\n\nBuild order:\n\n- Craft 27x Coke Bricks\n- Place them in a 3x3x3 shape\n- Right click the finished product with your Engineer\u0027s Hammer"
         }
       },
       "tasks:9": {
@@ -5350,7 +5320,7 @@
           "requiredItems:9": {
             "0:10": {
               "id:8": "immersiveengineering:stone_decoration",
-              "Count:3": 6,
+              "Count:3": 18,
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -5365,7 +5335,7 @@
           "rewards:9": {
             "0:10": {
               "id:8": "immersiveengineering:stone_decoration",
-              "Count:3": 3,
+              "Count:3": 9,
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -5415,8 +5385,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Der Werkzeugkoffer",
-          "desc:8": "Damit du nicht Tausende von Kabeln, Scheren und Bücher mit im Inventar rumschleppst, gibt es einen Werkzeugkoffer. Dieser ist leicht und geräumig. Du kannst viele Dinge darin verstauen und noch ne Stulle oben drauf packen."
+          "name:8": "Engineer\u0027s Toolbox",
+          "desc:8": "You don\u0027t want to have your inventory full of stuff? \nThen the Engineer\u0027s Toolbox is the right item for you. It can hold Wires, Shears, Books, Tools and more."
         }
       },
       "tasks:9": {
@@ -5472,8 +5442,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Hochöfen verbessern.",
-          "desc:8": "Um schneller Stahl zu produzieren, kannst du deinen Hochofen aufwerten. Dafür baust du einfach deinen alten ab und ummantelst die Steine mit Steel.\n\nDanach wird er wieder in 3*3*3 aufgebaut. Aber diesmal mit einem Hopper oben auf der Spitze.\n\n\nDas Eisen und die Kohle wird von oben zugegeben, der Stahl kommt auf der Vorderseite herraus und die Schlacke auf der Rückseite."
+          "name:8": "Improved Blast Furnace",
+          "desc:8": "To improve your existing Blast Furnace, dismantle it and cover the Blast Bricks with §7Steel§r.\n\nPlace again the 27x Bricks in a 3x3x3 shape, but now with a Hopper on top.\n\nConfiguration:\n- on top is the input for Iron\n- at the front is the output for §7Steel§r\n- at the back is the output for Slag"
         }
       },
       "tasks:9": {
@@ -5552,8 +5522,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Hochöfen vorheizen.",
-          "desc:8": "Du kannst den verbesserten Hochofen noch ein bisschen beschleunigen. Dafür musst du einfach von einer Seite heiße Luft reinpusten. Damit du aber nicht den ganzen Tag da stehst und pustest, bau dir einfach einen riesigen Föhn.."
+          "name:8": "Preheater v1",
+          "desc:8": "To improve the speed, craft 2 Pre-heaters and place one at each side.\nNow connect them with power (on top) and you\u0027re done."
         }
       },
       "tasks:9": {
@@ -5615,8 +5585,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Materialien zusammentragen",
-          "desc:8": "Für einige Rezepte brauchst du Stahl.\n\n\nHier lernst du wie du ihn herstellen kannst. Das ist sogar recht einfach. 1 Eisen und 2 Kohle zusammen in der Tinkers\u0027 Schmiede schmelzen und als Barren ausgießen."
+          "name:8": "Combine materials",
+          "desc:8": "Some recipes need §8§7Steel§r.\n\nUse the Blast Furnace to create §8§7Steel§r.\n\n(Iron + Charcoal or Coal Coke (via Coke Oven) \u003d §7Steel§r)\n\n"
         }
       },
       "tasks:9": {
@@ -5681,8 +5651,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Crude Blast Furnance",
-          "desc:8": "Um weitere Materialien herzustellen brauchst du einen Crude Blast Furnance.\n\nDieser besteht aus 27 Blast Bricks in 3*3*3 aufgebaut und mit dem Hammer zum Schluss gehauen."
+          "name:8": "Blast Furnace",
+          "desc:8": "A Crude Blast Furnace is your first step.\n\nBuild order:\n\n- Craft 27x Blast Bricks\n- Place them in a 3x3x3 shape\n- Right click the finished product with your Engineer\u0027s Hammer"
         }
       },
       "tasks:9": {
@@ -5693,7 +5663,7 @@
           "requiredItems:9": {
             "0:10": {
               "id:8": "immersiveengineering:stone_decoration",
-              "Count:3": 6,
+              "Count:3": 18,
               "OreDict:8": "",
               "Damage:3": 1
             }
@@ -5708,7 +5678,7 @@
           "rewards:9": {
             "0:10": {
               "id:8": "immersiveengineering:stone_decoration",
-              "Count:3": 3,
+              "Count:3": 9,
               "OreDict:8": "",
               "Damage:3": 1
             }
@@ -5745,7 +5715,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Alloy Kiln",
-          "desc:8": "Zu guter letzt brauchst du noch den Alloy Kiln, um Legierungen herzustellen.\n\nDafür brauchst du 8 Kiln Bricks und ordnest sie in 2*2*2 an. Zum Schluss wieder mit dem Hammer drauf hauen."
+          "desc:8": "Alloys are also required sometimes, so you need the Alloy Kiln.\n\nBuild order:\n\n- Craft 8x Kiln Bricks\n- Place them in a 2x2x2 shape\n- Right click the finished product with your Engineer\u0027s Hammer"
         }
       },
       "tasks:9": {
@@ -5756,7 +5726,7 @@
           "requiredItems:9": {
             "0:10": {
               "id:8": "immersiveengineering:stone_decoration",
-              "Count:3": 1,
+              "Count:3": 6,
               "OreDict:8": "",
               "Damage:3": 10
             }
@@ -5807,8 +5777,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Die Werkbank",
-          "desc:8": "Baue dir die Werkbank. Mit ihrer Hilfe kannst du viele Sachen aufwerten. Wie genau, musst du im Buch nachlesen."
+          "name:8": "Engineer\u0027s Workbench",
+          "desc:8": "Build the Engineer\u0027s Workbench, with it you can make a lot more stuff."
         }
       },
       "tasks:9": {
@@ -5864,8 +5834,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Strom durch Wasserkraft",
-          "desc:8": "Um weiter zu kommen, brauchst du Strom. Da gibt es verschiedene Arten dran zu kommen.\n\nProbier es doch mal mit Wasserkraft. Baue alle erforderlichen Teile und stelle sie auf.\n\nAls erstes den Dynamo platzieren, daran das Wasserrad. Nun noch Wasser oben oder unten laufen lassen, damit das Rad sich dreht.\n"
+          "name:8": "Energy via Waterwheels",
+          "desc:8": "To get ahead, you need energy. (RF, IF, ...)\nMany different possibilities are available:\n- Waterwheels\n- Windmills\n- Thermoelectric Generator\n- and more ...\n\nHere you test the \"Power of Water\" via Waterwheels. So, craft the required components.\n\nTo install your Wheel, place the dynamo and in front of it, you place the Waterwheel.\nLast step, take some Buckets of Water and place them above the Waterwheel."
         }
       },
       "tasks:9": {
@@ -5949,8 +5919,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Strom durch Windkraft.",
-          "desc:8": "Nun brauchst du noch Strom. Da ist einfach ranzukommen.\n\nWindkraft heißt das Zauberwort.  Baue dir alle Teile und stelle es hin luftiger Höhe auf.\n\n\nAls erstes must du den Dynamo platzieren und daran die Windräder montieren. Jetzt nur noch abwarten bis Wind kommt und fertig."
+          "name:8": "Power via Windmills",
+          "desc:8": "To get ahead, you need energy. (RF, IF, ...)\nMany different possibilities are available:\n- Waterwheels\n- Windmills\n- Thermoelectric Generator\n- and more ...\n\nHere you test the \"Power of Wind\" via Windmills. So, craft the required components.\n\nWindmills need a clear area, the best way is ta have a high place, with vision to the Sky.\nTo install the Windmill, place the dynamo and in front of it, the Windmill. After a short delay, it will start to turn.\n\nSecret Info: To improve your efficiency, cover the Windmill with some \"Windmill Sails\".\n(For each wing, 1 sail)"
         }
       },
       "tasks:9": {
@@ -6037,8 +6007,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Das Fließband",
-          "desc:8": "In der Maschiene eben verbaut. Nun gilt es, weitere Anwendungen zu finden.\n\nDas Fließband. Man braucht es nicht nur um Maschinen zu bauen. Man kann auch Sachen zu den Maschinen transportieren lassen. Oder davon weg in Kisten..\n\nBau dir welche und teste deine Möglichkeiten aus."
+          "name:8": "Conveyor Belts",
+          "desc:8": "Previously installed in the machine and now you search for more applications.\n\nConveyor Belts are better pipes (at least optically). They can transport into machine inputs and out of machine outputs.\n\nThey can also be stopped with a Redstone-signal and they have multiple versions:\n- Dropping Conveyor Belt\n- Covered Conveyor Belt\n- Vertical Conveyor Belt"
         }
       },
       "tasks:9": {
@@ -6124,8 +6094,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Stanzmaschine",
-          "desc:8": "Um schnell und einfach verschiedene Arbeitschritte zu automatisieren gibt es Maschinen. Mit der folgenden kannst du deinen Kabel automatisch stanzen lassen.\n\nMit der Bauhilfe oder der Anleitung im Buch findest du heraus wie du die Teile zusammen setzen musst. Mit einem leichten Schlag mit dem Hammer wird die Maschine in Betrieb genommen."
+          "name:8": "Mechanical Press",
+          "desc:8": "The fast way to create Plates, Wires, Gears and more is the Metal Press.\nThis multi-block machine can be equipped with different Press Molds.\n\nTo enable the machine, a simple right click with the Engineer\u0027s Hammer is enough."
         }
       },
       "tasks:9": {
@@ -6232,8 +6202,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Das Motorboot",
-          "desc:8": "Du kannst nun beschichtetes Holz herstellen.\n\nDaraus lässt sich auch einfach ein Boot bauen. Dieses kann man sogar mit einem größeren Tank, Rudern und anderen Dingen verbessern.\n\n(Dazu brauchst du die Werkbank)"
+          "name:8": "Motor Boat",
+          "desc:8": "With Treated Wood your possibilities are almost limitless.\n\nA Motor Boat as example can be filled with Gasoline for a great maximum speed.\n\n\nInfo: You need the Engineer\u0027s Workbench for it."
         }
       },
       "tasks:9": {
@@ -6260,6 +6230,16 @@
             "0:10": {
               "id:8": "immersiveengineering:treated_wood",
               "Count:3": 4,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "forge:bucketfilled",
+              "Count:3": 1,
+              "tag:10": {
+                "FluidName:8": "gasoline",
+                "Amount:3": 1000
+              },
               "OreDict:8": "",
               "Damage:3": 0
             }
@@ -6295,8 +6275,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Bauhilfe",
-          "desc:8": "Strom ist vorhanden. Die Leitungen sind auch geplant. Fehlen noch die großen Maschinen, die Strom brauchen. Damit du nicht raten musst, wie du sie baust gibt es eine Bauhilfe.\n\n"
+          "name:8": "Projector",
+          "desc:8": "Projectors are the easy way, in case you don\u0027t know, how the shape of a machine.\n\nYou can combine a Projector with your Engineer\u0027s Manuel, to lock the machine blue-print."
         }
       },
       "tasks:9": {
@@ -6359,8 +6339,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Stromabnehmer",
-          "desc:8": "Strom produzierst du nun. Aber wie gelangt der später in deine Maschinen?\n\n\nMit Kabeln. Du brauchst ein paar Materialien und kannst dann Strom verteilen.\nAn ein Relay kann man z.B. 2 Kabel anklemmen, an die einfachen nur 1. Mit einem Trafo dazwischen kann man zwischen Stromstärken wechseln..\n\n\nProbier einfach mal ein bisschen aus."
+          "name:8": "Current collector",
+          "desc:8": "Your already producing energy, but how can you move it?\n\nWith Cables and Connectors/Relays!\nSeveral cables can be connected to one Relay, but only 1 Cable is collectable to 1 Connector.\nYou can change the voltage with Transformers.\n\nPlay a little bit with them."
         }
       },
       "tasks:9": {
@@ -6454,8 +6434,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Kleines Ölkännchen",
-          "desc:8": "Deine Machinen brauchen gelegentlich Schmiermittel. Mithilfe des Kännchen kannst du sie in Stand halten.\n\nDas Kännchen ist so vielseitig, du kannst sogar deine Golems behandeln. Sie fühlen sich danach wie neu."
+          "name:8": "Tiny Oil Can",
+          "desc:8": "Lubricant is good for every machine, they work better with it.\n\nThe Can is versatile, Golems will feel like new."
         }
       },
       "tasks:9": {
@@ -6521,8 +6501,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Ein Tank oder Silo",
-          "desc:8": "Um größere Mengen von deinem Öl zu lagern, oder aber auch lieber die Kohle, kannst du einen Tank / Silo bauen.\n\nDafür benötigst du 4 imprägnierte Zäune und einige (34/50) Iron Sheetmetal.  Mach mal ein paar und entscheide dann, was du brauchst."
+          "name:8": "Tank or Silo?",
+          "desc:8": "To store big amounts of Oil, or Coal, you can build:\n- a Silo for Items\n- a Tank for Liquids\n\nBuilding requirements:\n- 4 Treated Wood Fence\n- 34 / 50 Iron Sheetmetal\n\n34 Sheetmetal for the Tank and 50 for the Silo."
         }
       },
       "tasks:9": {
@@ -6584,8 +6564,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Beschichtetes Holz",
-          "desc:8": "Du brauchst für ein paar Dinge treated Wood. Also beschichtetes Holz.\n\nDafür holst du dir einen Eimer Öl aus dem Coke Oven und craftest ihn mit dem Holz zusammen."
+          "name:8": "Treated Wood",
+          "desc:8": "Treated Wood \u003d any Wood + Creosote Oil -\u003e voilà.\n\nCreosote Oil is available from the Coke Oven."
         }
       },
       "tasks:9": {
@@ -6668,8 +6648,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Platten und Schnüre",
-          "desc:8": "Noch mehr Materialien werden benötigt.\n\nPlatten und Wire. Die Platten werden mit dem Hammer gehämmert und dann mit der Schere zu \"Schnüren\" zerschnitten. Diese kann man dann weiter verarbeiten."
+          "name:8": "Wires and Plates",
+          "desc:8": "More materials are needed.\n\nPlates are made out of Ingots + Engineer\u0027s Hammer\n\n\u0026\n\nWires are made out of Plates + Wire Cutter or simple shears."
         }
       },
       "tasks:9": {
@@ -6759,8 +6739,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Das große Ölkännchen",
-          "desc:8": "Wenn du zu beschäftigt bist immer nach den Machinen zu schauen, kannst du einfach das automatische \"Kännchen\" bauen.\n\nMit der Machine verbinden und es läuft wie von selbst."
+          "name:8": "The big Oil Can",
+          "desc:8": "Are you lazy and busy? Then try the \"Automatic Lubricator\".\nYou can place this little machine to the lubricant input of machines and they will drain it automatically into the machine."
         }
       },
       "tasks:9": {
@@ -6817,8 +6797,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Strom to go",
-          "desc:8": "Manchmal braucht man Strom an Stellen, wo kein Kabel hinkommt. Dafür gibt es den transportablen Generator.\n\nDu kannst ihn direkt mit einem Stromkabel verbinden und jeder Zeit wieder mitnehmen (shift-rechts) und alles bleibt drin."
+          "name:8": "Energy 2go",
+          "desc:8": "Even in difficult places energy is possible with a Portable Generator.\n\nIt is directly connectible with a Wire and keeps its inventory, if you break it down."
         }
       },
       "tasks:9": {
@@ -6883,8 +6863,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 1,
-          "name:8": "Das Botaniabuch",
-          "desc:8": "Alles was du wissen must steht in diesem Buch. Also ist es sinvoll, zuerst eines zu besorgen."
+          "name:8": "Lexica Botania",
+          "desc:8": "This book is the knowledge monster."
         }
       },
       "tasks:9": {
@@ -6950,8 +6930,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "\"Zauberkessel\"",
-          "desc:8": "Als nächstes benötigst du einen Kessel.\n\nDort wirfst du deine Zutaten in\u0027s Wasser und zauberst neue Dinge."
+          "name:8": "Magic \"Cauldron\"?",
+          "desc:8": "Next you need a \"cauldron\" (Petal Apothecary).\n\nYour main instrument to create seeds and other Botania items."
         }
       },
       "tasks:9": {
@@ -7014,7 +6994,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Mana Pool",
-          "desc:8": "In einem Manapool sammelst du das Mana ein. Richte den Spreader mit Hilfe des Zauberstabs auf den Pool und das Mana aus den Blumen sammelt sich dort.\n\nMit Hilfe des Pools kannst du neue Dinge erstellen. Wirf Eisen oder Diamanten rein. Du kannst im Buch nachlesen, was alles geht.\n\n\n"
+          "desc:8": "The \"Mana Pool\" is a storage block for your mana.\nAddress a mana spreader to the pool, so that it can send and store it inside the pool.\n\nHowever, the pool can be used to convert items, too. Look inside your Lexica Botania about what\u0027s all possible.\n\n(Or use JEI)"
         }
       },
       "tasks:9": {
@@ -7083,8 +7063,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Ein Zauberstab",
-          "desc:8": "Um mit Mana zu arbeiten, brauchst du einen Zauberstab. Der ist sehr einfach herzustellen."
+          "name:8": "And another Wand.",
+          "desc:8": "To handle Mana, you need this wand."
         }
       },
       "tasks:9": {
@@ -7158,8 +7138,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Mana absaugen",
-          "desc:8": "Nun hast du eine oder mehrere Blumen vollgeladen mit Mana. Wie bekommst du es da raus? Ganz einfach, mit dem Manaspreader. Bau dir einen und setze ihn in die Nähe deiner Pflanzen. Mithilfe des Zauberstabes kannst du sehen, wo das Mana ist, wer wie viel hat und von wo nach wo es weitergeleitet wird."
+          "name:8": "Mana spreader",
+          "desc:8": "The way how you can transfer mana, is with this spreader.\nYou have to bind flowers to the spreader. (shift + right click with your Wand)\n\nAlso, your wand shows details about the mana status in your flower and the how mana flows."
         }
       },
       "tasks:9": {
@@ -7225,7 +7205,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Pure Daisy",
-          "desc:8": "Zaubere das erste Mal in deinem Kessel. Dafür must du die weißen Blumen in Petals zerlegen und 4 in den Kessel werfen. Mit einem Samenkorn wird daraus eine schöne weiße Blume."
+          "desc:8": "Play with your \"cauldron\" and create your first useful flower.\n\nThrow the materials into the cauldron, complete your recipe with a Seed."
         }
       },
       "tasks:9": {
@@ -7307,8 +7287,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Zutaten zusammentragen.",
-          "desc:8": "Um weiter zu kommen, brauchst du Blumen. Eine hast du schon als Geschenk erhalten. Davon brauchst du noch ein paar."
+          "name:8": "Collect ingredients",
+          "desc:8": "To get further, you need more flowers.\nYou already got one as present, but this is not enough."
         }
       },
       "tasks:9": {
@@ -7373,8 +7353,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Umwandlung",
-          "desc:8": "Mit der hübschen Blume kannst du nun einfach Holz und Stein in Neues verwandeln. Die Blume kommt in die Mitte und das Holz/Stein wird herum gestellt."
+          "name:8": "Conversion",
+          "desc:8": "With the power of the Pure Daisy, you can convert Stone and Logs into their Botania counterparts.\nImportant: This is §lnot§r a crafting recipe, it\u0027s an in-world transmutation process.\n\nConstruction shape:\n\n L/S | L/S | L/S\n\n L/S | P.D. | L/S \n\n L/S | L/S | L/S\n\nL \u003d Log, S \u003d Stone, P.D. \u003d Pure Daisy"
         }
       },
       "tasks:9": {
@@ -7471,8 +7451,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Flammenblume",
-          "desc:8": "An Mana heranzukommen ist einfach. Auf diesem Weg lernst du es, Mana mit Hilfe von \"Feuer\" herzustellen. Füttere die Blume mit Kohle oder Holz und sie produziert Mana für dich."
+          "name:8": "Flaming Flower",
+          "desc:8": "Earning Mana is simple, this flower requires some heat-producing materials like Coal.\n\nThrow the item on the ground near the flower and after a short time it will start producing mana."
         }
       },
       "tasks:9": {
@@ -7543,8 +7523,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Blume des Wassers",
-          "desc:8": "An Mana heranzukommen ist einfach. Hier lernst du, wie du Mana aus Wasser bekommst. Baue dir deine Wasserblume und platziere sie auf die gleiche Ebene wie dein Wasser. Sie verbaucht es und wandelt es in Mana um."
+          "name:8": "Flower of the Water",
+          "desc:8": "This flower is more simple than the fire flower.\n\nJust place this flower on the same level as your water is.\nIt will consume the water to produce Mana."
         }
       },
       "tasks:9": {
@@ -7616,8 +7596,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Mana Tablett",
-          "desc:8": "Du kannst Mana mitnehmen. Dafür brauchst du das Manatablett und einen Zauberstab."
+          "name:8": "Mana Tablet",
+          "desc:8": "Mana 2go: it can charge mana items in your inventory."
         }
       },
       "tasks:9": {
@@ -7683,8 +7663,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Der Tisch für die Handtasche",
-          "desc:8": "Es gibt einen Crafting-Tisch für die Tasche. Oh wie fein. Bau dir doch einen, es sollte in jeder Tasche einer sein."
+          "name:8": "The Handy-bag Crafting Table",
+          "desc:8": "Improve your inventory crafting with this practical item."
         }
       },
       "tasks:9": {
@@ -7740,8 +7720,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Der Durchblick",
-          "desc:8": "Mit diesem speziellen Gerät hast du den Mega Durchblick bei fast allem."
+          "name:8": "The view",
+          "desc:8": "You can see much more details with this."
         }
       },
       "tasks:9": {
@@ -7803,8 +7783,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Der Wurm",
-          "desc:8": "Es lebt in der Erde ein Wurm, der, sobald du ihn ausgräbst, für dich arbeitet. Er bewässert, düngt und pflügt für dich."
+          "name:8": "It\u0027s a worm inside",
+          "desc:8": "It lives under the surface and is discoverable with a hoe.\n\nTill some Grass / Dirt to obtain some Worms. It will make the earth great again."
         }
       },
       "tasks:9": {
@@ -7869,8 +7849,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Arbeit für den Wurm",
-          "desc:8": "Damit er was zum Arbeiten hat, sammel einfach etwas Saatgut."
+          "name:8": "Let the worm work",
+          "desc:8": "The Worm need seeds, build a little farm."
         }
       },
       "tasks:9": {
@@ -7953,8 +7933,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Der \"Küchensäbel\"",
-          "desc:8": "Es gibt ein schickes Küchenmesser. Damit kannst du viele verschiedene Dinge zubereiten."
+          "name:8": "Kitchens Knife",
+          "desc:8": "A fancy Kitchens Knife; some good recipes are preparable with it."
         }
       },
       "tasks:9": {
@@ -8037,8 +8017,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Guten Hunger",
-          "desc:8": "Hat die Belohnung geschmeckt? Dann stell doch einfach noch ein paar her."
+          "name:8": "Favourite food of the French people.",
+          "desc:8": "Was the reward good? Yes? Good, then create more.^^"
         }
       },
       "tasks:9": {
@@ -8100,8 +8080,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Das schwarze Gold - Kaffe",
-          "desc:8": "Angepflanzt hast du das schwarze Gold schon. Nun musst du es noch ernten und auf den Weg in die Tasse bringen...... Wo ist die denn? Stell mal lieber schnell eine her!"
+          "name:8": "Black Gold - Coffee.",
+          "desc:8": "It\u0027s planted, and maybe already harvested? But wait, without a Cup its really wasteful.\n\nCraft it first!"
         }
       },
       "tasks:9": {
@@ -8163,8 +8143,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Material sammeln",
-          "desc:8": "Wie überall brauchst du erst mal ein haufen Material um anzufangen. Also leg mal los und besorge ein wenig.\n\n\n(Ps: Sieb und Waterstrainer)"
+          "name:8": "Collect ingredients",
+          "desc:8": "Like everywhere you need materials, this time you can earn them from the Waterstrainer and/or Sieves."
         }
       },
       "tasks:9": {
@@ -8229,8 +8209,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Der Verwandler",
-          "desc:8": "Die erste Machine die du brauchst ist der Verwandler. Baue ihn mal auf und dann geht es weiter.\n\n\nPs: mit einem Button und einer Redstonetorch kannst du die Maschine einstellen."
+          "name:8": "Machine of de-materialization",
+          "desc:8": "Your first machine is the Atomic Reconstructor.\nIt\u0027s powerfull.\n\nInfo: you can control the Reconstructor with a Redstone Torch and active it with a Button."
         }
       },
       "tasks:9": {
@@ -8315,8 +8295,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Strom aus Kohle",
-          "desc:8": "Mit Kohle kannst du Strom produzieren. Baue den Kohle Genenrator und teste es mal aus."
+          "name:8": "Coal Energy",
+          "desc:8": "You can generate energy via Coal, build a Coal Generator. \n\n(Since AA v142, the Coal Gen. is faster)"
         }
       },
       "tasks:9": {
@@ -8378,8 +8358,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Verwandlung mit Linsen",
-          "desc:8": "Du kannst deinen Verwandler aufwerten. Mit Linsen. Baue die erste und wenn du diese beschießt erhälst du weitere. Teste einfach mal ein wenig herum was es für Möglichkeiten gibt."
+          "name:8": "Lenses of change",
+          "desc:8": "Upgrade your Reconstructor with lenses:\n- Lens of the Miner\n- Lens of Disenchanting\n- Lens of the killer\n- Lens of Certain Death\n- Lens of Detonation\n- Lens of Color"
         }
       },
       "tasks:9": {
@@ -8441,8 +8421,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Ein Multitool",
-          "desc:8": "Um weiter voran zu kommen brauchst du einen Werkzeug. Bau dir den Schraubenschlüssel, du wirst ihn bald brauchen."
+          "name:8": "Multi-tool",
+          "desc:8": "To go on, you need the Wrench from Actually Additions."
         }
       },
       "tasks:9": {
@@ -8504,8 +8484,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "W-Lan was auch immer",
-          "desc:8": "Es gibt eine wunderbare Möglichkeit Items, Wasser und Strom von A nach B zu bringen. Per W-Lan. Sogar durch Wände hindurch. Du musst nur eine Grundausrüstung zusammenstellen und ein wenig probieren wie es dir am besten gefällt."
+          "name:8": "08/15 W-LAN",
+          "desc:8": "A wonderful way to transport fluids, energy and items is via W-LAN.\n\nNothing (except the range) can stop the connection. So you can send it through walls."
         }
       },
       "tasks:9": {
@@ -8590,8 +8570,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Noch ein bisschen W-Lan",
-          "desc:8": "Ein paar Teile mehr brauchst du schon noch. Für die Items eine nette Kiste und Hopper und zum Sortieren einen kleinen Filter."
+          "name:8": "High Tech W-LAN",
+          "desc:8": "A few more items you will need. \n\nCraft a Chest and a Hopper and if you want to sort, you also need a little Filter."
         }
       },
       "tasks:9": {
@@ -8665,8 +8645,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Energie von der Sonne",
-          "desc:8": "Eine weiterw Art um an Strom heranzukommen ist die Kraft der Sonne zu nutzen. Dafür brauchst du ein paar Teile und schon geht es los."
+          "name:8": "Solar Energy",
+          "desc:8": "Solar power is a regenerative way to generate energy.\n\nMother Nature will be happy about it. ;:\u003d)"
         }
       },
       "tasks:9": {
@@ -8728,8 +8708,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Immer noch Strom",
-          "desc:8": "Du hast nun aus dem Canola Öl hergestellt. Nun kannst du es im Generator verbrennen und Strom erzeugen."
+          "name:8": "It continues with power",
+          "desc:8": "Canola Oil is burnable in the Oil Generator."
         }
       },
       "tasks:9": {
@@ -8795,8 +8775,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Noch eine möglichkeit Strom zu erzeugen",
-          "desc:8": "Es gibt noch eine weitere Möglichkeit Strom zu erzeugen. Dafür brauchst du ein paar Geräte und Canola."
+          "name:8": "Canola power",
+          "desc:8": "Another way to generate power:\nThis time with Canola."
         }
       },
       "tasks:9": {
@@ -8885,8 +8865,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Die Ladestation",
-          "desc:8": "Es gibt einige Items die müssen aufgeladen werden. Dafür gibt es diese Ladestation. Doch sie ist ein wenig kompliziert. Lies ausgiebig alle Seiten dazu in deinem Handbuch."
+          "name:8": "Charging Station",
+          "desc:8": "To charge items, the Empowerer is your device.\n\nIt is a bit complex, so better read the page in the book."
         }
       },
       "tasks:9": {
@@ -8955,8 +8935,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Die Machine des Kaffes",
-          "desc:8": "Ein Tasse hast du nun. Brauchst aber noch die Machine die ihn dir brüht. Also ran ans Werk. Vergiss den Strom und den Eimer Wasser zum kochen nicht."
+          "name:8": "Producing the liquid black gold",
+          "desc:8": "Your Cup needs to be filled up in the Coffee Machine.\nTake some energy and a Bucket of Water and heat up the machine!"
         }
       },
       "tasks:9": {
@@ -9018,8 +8998,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Der KAFFE",
-          "desc:8": "Alles ist vorbereitet. Fülle die Maschine. Klemme sie an den Strom und warte kurz auf das heiße schwarze Gold. Deine Tasse Kaffe.\n\n\nPs: du kannst ihn mit diversen Zusätzen ergänzen."
+          "name:8": "Coffee!",
+          "desc:8": "All is done, activate the machine and wait a little moment.\n\nInfo: you can add some effects to it.\n"
         }
       },
       "tasks:9": {
@@ -9084,8 +9064,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Die Verwandlung",
-          "desc:8": "Du hast nun Strom und den Verwandler. Nun musst du nur noch was verwandeln.\n\nSorge dafür, dass dein Verwandler Strom hat und lege das Item, welches du verwandeln willst, vor den grünen Punkt deiner Maschine. Nur noch den Knopf drücken und fertig."
+          "name:8": "Transforming materials",
+          "desc:8": "With energy and this machine, you can start to transform.\n\nThrow the items in front of the machine (the green side) and press the button.\n(be attentive, the machine needs a lot of energy)"
         }
       },
       "tasks:9": {
@@ -9186,7 +9166,7 @@
       },
       "rewards:9": {
         "0:10": {
-          "amount:3": 1,
+          "amount:3": 8,
           "rewardID:8": "bq_standard:xp",
           "isLevels:1": 1,
           "index:3": 0
@@ -9221,8 +9201,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Flüssigkeitsröhren",
-          "desc:8": "Transportröhren gibt es auch für Flüssigkeiten, diese funktionieren im Prinzip genauso wie die Item-Version.\n\n\n\n§7§oLaut Hersteller sollte erst ab dem Betrieb von ca 300000 solcher Röhren eine kritische Verzerrung des Raumzeitkontinuums auftreten, jedoch wurde dies nie experimentell bestätigt."
+          "name:8": "Fluid Pipe",
+          "desc:8": "Fluid Pipes work identically to the Item Pipes.\n\n\n\n§7§oAccording to the developer, a critical distortion of the space-time continuum would only occur during operation of about 300,000 of such tubes, but this has never been experimentally confirmed."
         }
       },
       "tasks:9": {
@@ -9296,8 +9276,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Fischen für faule",
-          "desc:8": "Du brauchst Fisch. Hast aber keine Lust stundenlang die Angel auszuwerfen?. Dann baue dir das Fischernetz. Platzier es über dem Wasser und lass es für dich Arbeiten."
+          "name:8": "Angling for the lazy guys",
+          "desc:8": "Auto-fishing in very simple, place this block above water and above the Net, a Chest. (or other container blocks)"
         }
       },
       "tasks:9": {
@@ -9359,8 +9339,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Compost aus Überschuss",
-          "desc:8": "Bei der Feldarbeit fallen Abfälle an. Einen Teil davon kannst du in den Kompost stecken und bekommst guten Dünger zurück."
+          "name:8": "Compost overflow",
+          "desc:8": "To recycle the fertilizer overflow that you get when maintaining fields, use the compost to get good fertilizer back."
         }
       },
       "tasks:9": {
@@ -9420,8 +9400,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 1,
-          "name:8": "Transport Röhren",
-          "desc:8": "Diese Röhren eigenen sich gut um Items schnell und effizient von A nach B zu transportieren.\n\nEs gibt jeweils 3 verschiedene Rohrtypen, die jeweils unterschiedliche Aufgaben übernehmen:\n\nDie §9§4Extraktionsröhren §0ziehen Items aus Inventaren heraus, während die §1§2Injektionsröhren§0 sie woanders wieder einfügen können und die §8Transportröhren§0 dienen dazu, den Weg dazwischen zu überbrücken. §o[siehe Shift-Hinweise]\n\n§l§o§r§nHinweis:§r Man kann Transportwege von unterschiedlichen Extraktionsröhren aus zwar zusammenführen aber nicht aufsplitten. Wenn man mehrere Ziele ansteuern will muss man also alle hintereinander ablaufen."
+          "name:8": "Transport Pipe",
+          "desc:8": "Excellent pipes to transfer items between 2 points.\n\n5 kinds of pipes are available (all of them have 1 \"slot\" internal inventory):\n- §4Extraction Pipe, §bextract items/fluids out of inventories\n§r- §2Injection Pipe, §binsert items/fluids into inventories\n§r- §5Source Pipe /Destination Pipe, §r§bdon\u0027t interact with inventories themselves but machines can interact with them.\n- §7§8Transport Pipes, §bto fill the spacial gap between the other pipes§r\n\n§nInfo:§r You can merge resource flows along pipes, but splitting them is not that simple.\nSo the best way to deliver multiple targets is to connect Injection Pipes in §9series§r."
         }
       },
       "tasks:9": {
@@ -9496,7 +9476,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Tanks",
-          "desc:8": "Diese Tanks können Flüssigkeiten nicht nur speichern, sondern auch bequem in oder aus Behältern umfüllen.\n\nMan kann Tanks auch übereinander stapeln, diese geben dann ihren Inhalt nach unten weiter."
+          "desc:8": "Tanks with some special features:\n- keeps fluid content when dismantling\n- transfers to lower placed tanks\n- can be used to fill and empty buckets and other containers."
         }
       },
       "tasks:9": {
@@ -9556,8 +9536,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 1,
-          "name:8": "Konfigurierbare Kisten",
-          "desc:8": "Kennst du das, wenn man eine Kiste braucht mit genau 4 Slots und in der Items nur bis 12 Stapeln - Wahrscheinlich nicht, aber falls doch sind diese Item Puffer genau das Richtige.\n\nMan kann Slotzahl und Stapelgröße mit Schiebereglern beliebig an seine Bedürfnisse anpassen. Besonders nützlich ist auch die Möglichkeit verschiedenen Seiten unterschiedliche Inventarbereiche zuzuordnen.\n§o[Nähere infos beim §9i§r §oim GUI]"
+          "name:8": "Configurable Chests",
+          "desc:8": "You ever wanted a §nperfect§r chest with exactly 4 slots and a stack limit of 6 ?\nProbably not, but still the Item Buffer is the perfect storage for items in automation setups!\n\nI could explain the buffer, but with the §o\"I\"§r in the inventory you can find all the detailed information.\n\nInfo: the Item Buffers are better for server performance, in contrast to vanilla chests."
         }
       },
       "tasks:9": {
@@ -9619,8 +9599,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Automatisch Craften",
-          "desc:8": "Solche Geräte kennt man sicherlich bereits in diversen Ausführungen. Die Funktionsweise dieser Version ist vielleicht etwas ungewohnt jedoch in vielen Situationen äußerst nützlich.\n\nFalls es noch Fragen gibt: Tooltips sind dein Freund und Helfer"
+          "name:8": "Automatic crafting",
+          "desc:8": "Auto-Crafting devices come in all sorts of types, however this one works a little bit different than most conventional ones. (Maybe better)\n\nInfo: more details can you find in the §o\"§9I§r§o\"§r."
         }
       },
       "tasks:9": {
@@ -9677,8 +9657,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Instant Transport",
-          "desc:8": "Oft ist es praktisch wenn Items oder Flüssigkeiten nicht in irgendeinem Rohr zwischengelagert werden und dieses eventuell sogar verstopfen. Diese Universal-Warp-Rohre teleportieren das Zeug einfach direkt von A nach B.\n\nBei geschickter verwendung von Filtern können sogar mehrere unabhängige Transportlinien durch dasselbe Rohr geleitet werden."
+          "name:8": "Instant transport",
+          "desc:8": "Resource buffering in pipes is \"problematic\". Therefore we ignore it and build the universal pipes. \u003d)\nThey teleport the items instantly between 2 points.\n\nIf you use them clever, then you can have independent lines within the same pipe structure.\nInfo: \"Master connections\" (Extraction/Injection) can only interact with \"slave connections\"(Source/Destination)."
         }
       },
       "tasks:9": {
@@ -9741,7 +9721,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Item Filter",
-          "desc:8": "Item Filter bieten eine drastische Erhöhung der Nützlichkeit von Itemröhren.\n\nNeben dem bloßen Sortieren von Items haben diese noch diverse weitere Funktionen. Experimentiere doch einfach etwas damit herum."
+          "desc:8": "The Item Filter can be used for Item Pipes, they have many options.\n\nRightclick in air to open the config screen and a simple rightclick on the pipe to install."
         }
       },
       "tasks:9": {
@@ -9814,8 +9794,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Flüssigkeitsfilter",
-          "desc:8": "Flüssigkeits Filter bieten eine drastische Erhöhung der Nützlichkeit von Flüssigkeitsröhren.\n\nNeben bloßem Sortieren von Flüssigkeiten haben diese noch diverse weitere Funktionen. Experimentiere doch einfach etwas damit herum."
+          "name:8": "Fluid Filter",
+          "desc:8": "The Fluid Filter can be used for Fluid Pipes, they have many options.\n\nRightclick in air to open the config screen and a simple rightclick on the pipe to install."
         }
       },
       "tasks:9": {
@@ -9886,8 +9866,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Tragbares Autocrafting",
-          "desc:8": "Automatisches Craften ist bequem.\nTragbares Craften ist auch bequem.\n-\u003e Tragbares Autocraften ist bequem²."
+          "name:8": "Portable auto crafting",
+          "desc:8": "Auto crafting is good.\n\n-\u003e Portable auto crafting is better."
         }
       },
       "tasks:9": {
@@ -9951,8 +9931,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Fernzugriff",
-          "desc:8": "Damit hast du immer und überall Zugriff auf deine lieblings Kiste zuhause.\n\nMit Filtern ausgerüstet kann man damit sogar automatisch sein Inventar entrümpeln lassen."
+          "name:8": "Remote Control",
+          "desc:8": "Wireless Access Terminal for all blocks that have an inventory.\n\n"
         }
       },
       "tasks:9": {
@@ -9977,20 +9957,10 @@
           "index:3": 0,
           "rewards:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "metalchests:metal_chest",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 7,
-                "orig_tag:10": {
-                  "RepairCost:3": 0,
-                  "display:10": {
-                    "Name:8": "Lieblingskiste"
-                  }
-                },
-                "orig_id:8": "ironchest:iron_chest"
-              },
               "OreDict:8": "",
-              "Damage:3": 7
+              "Damage:3": 3
             }
           }
         }
@@ -10024,8 +9994,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Ebbe und Flut",
-          "desc:8": "Diese Geräte können künstliche Seen anlegen oder welche trocken legen.\nAber pass auf, dass du dir nicht versehentlich den Keller flutest!\n\nEs ist am einfachsten diese mit hinreichend großen Flüssigkeitstanks direkt im Interface zu betreiben."
+          "name:8": "Ebb and Flow",
+          "desc:8": "These machines can create lakes or drain them empty.\nBut be warned: They can flood your basement if you are not careful enough.\n\nThe logistically easiest way to operate them, is with a sufficiently large liquid tank, put directly into the machines interface."
         }
       },
       "tasks:9": {
@@ -10093,8 +10063,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Überlaufschutz",
-          "desc:8": "Manchmal möchte man zu viel produzierte Resourcen entsorgen um Überlaufkatastrophen zu vermeiden. Leider hat nicht unbedingt jede Maschine ein Void-Upgrade aber dafür gibts den Überlaufannihilator."
+          "name:8": "Overflow protection",
+          "desc:8": "To void superfluous items, we need a trash can.\nInductive Logistics has an Overflow Trash, this helps you to prevent lag from items spilling all over the place. :)"
         }
       },
       "tasks:9": {
@@ -10156,8 +10126,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Größere Tanks",
-          "desc:8": "Wie du wohl schon bemerkt hast gibt es auch die Tanks in unterschiedlichen Größen.\nWir bauen natürlich wie immer den größten."
+          "name:8": "Bigger Tanks",
+          "desc:8": "Tanks with some special features:\n- keeps fluid content when dismantling\n- transfers to lower placed tanks\n- can be used to fill and empty buckets and other containers.\n\nBut, they are also available in bigger versions.\nAnd you should build the §9§lbiggest§r§r one of course. :^)"
         }
       },
       "tasks:9": {
@@ -10226,8 +10196,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Items droppen und aufsammeln",
-          "desc:8": "Item-Dropper oder -Kollektoren sind oft unflexibel. Es wäre doch viel praktischer wenn Pipes mit herumliegenden Items wie mit einem normalen Inventar interagieren könnten..."
+          "name:8": "Drop and Collect items",
+          "desc:8": "Item-Droppers or Collectors are often inflexible in their usability.\nThe Dropped-Item Interface however is just a virtual inventory that represents all items laying around inside a specific area."
         }
       },
       "tasks:9": {
@@ -10295,8 +10265,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Interaktion mit Entitäten",
-          "desc:8": "Automatische Interaktion mit Inventaren von Entitäten wie z.B. Kistenwaggons ist oft schwierig, es gibt zwar Hopper, aber die sind recht unflexibel.\n\nDieses Gerät ermöglicht es Pipes (oder Maschinen) auf Inventar oder Tanks in Entitäten zuzugreifen, die sich direkt vor dem Block befinden.\n§oDas funktioniert auch mit Spielerinventaren also pass lieber auf wenn du bei anderen Leuten über die Türschwelle läufst."
+          "name:8": "Interacting with Entities",
+          "desc:8": "Its difficult to interact with something like Chest Minecarts. Hoppers are okay, but it could work better.\n\nI could explain the machine, but with the §o\"I\"§r in the inventory you can find the detailed informations.\n\nInfo: be careful with this device, it works with player inventories, too. :)"
         }
       },
       "tasks:9": {
@@ -10358,8 +10328,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Größere Buffer",
-          "desc:8": "Diese Item Puffer gibt es in verschiedenen größen. Neben mehr Slots gibt es auch welche mit höherem Stapellimit, was recht nützlich ist zum lagern großer Mengen Resourcen.\n\nBau am besten einfach den größten."
+          "name:8": "Bigger Buffers",
+          "desc:8": "The Buffer sizes are variable, more slots and higher stack limits.\n\nSo, build the biggest!\n\nInfo: the Item Buffers are better for server performance, in contrast to vanilla chests."
         }
       },
       "tasks:9": {
@@ -10431,8 +10401,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Die Reise beginnt.",
-          "desc:8": "Der start zum Erfolg.\n\nMit diesem Buch kannst Du §4alle §rMaschinene bauen, die du möchtest.\nDas Buch beinhaltet alle Blue Prints die du brauchst, klick dich durch."
+          "name:8": "The journey starts",
+          "desc:8": "The start to the success.\n\nThis book contains §call§f important machine blue prints."
         }
       },
       "tasks:9": {
@@ -10494,8 +10464,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Die Master Wrench.",
-          "desc:8": "Der \"Schlüssel\" zum Erfolg.\n\nEinfach die Maschinen damit rechts klicken und es wird geformt."
+          "name:8": "Master Wrench",
+          "desc:8": "The \"Key\" to the success.\n\nRight click the machines to form it."
         }
       },
       "tasks:9": {
@@ -10544,8 +10514,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Die Master Rail.",
-          "desc:8": "Alles in einem und 1 Item für alles!\n\nRechts klicke einfach mal die Schiene, dann hast du eine große auswahl.\n\nUm sie zu platzieren, brauchst du das richtige rail casting und immer etwas Treated Wood."
+          "name:8": "Master Rail",
+          "desc:8": "All in one and 1 item for everything!\n\nRight click the item, to open the menu.\n\nTo place the rail, you need:\n- Rail casting in the right size\n- Treated Wood"
         }
       },
       "tasks:9": {
@@ -10620,8 +10590,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Der Shookum Zug.",
-          "desc:8": ""
+          "name:8": "Shookum Train",
+          "desc:8": "A fancy Train for the start."
         }
       },
       "tasks:9": {
@@ -10700,8 +10670,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Koppeln.",
-          "desc:8": "Wagons allein sind langweilig, deswegen verbinde sie einfach."
+          "name:8": "Couple together",
+          "desc:8": "Trains are there to attract wagons."
         }
       },
       "tasks:9": {
@@ -10770,7 +10740,7 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Refined Storage.",
+          "name:8": "Refined Storage",
           "desc:8": "Refined Storage."
         }
       },
@@ -10822,7 +10792,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Applied Energistics 2 - RV6",
-          "desc:8": "§1AE 2§r - ein alter bekannter. Nun aber mit eigenem Fluid System ganz ohne Extra Mods."
+          "desc:8": "§1AE 2§r - an old friend.\n\nBut now with integrated Fluid Systems."
         }
       },
       "tasks:9": {
@@ -10841,7 +10811,21 @@
           "taskID:8": "bq_standard:crafting"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "appliedenergistics2:dense_energy_cell",
+              "Count:3": 1,
+              "tag:10": {},
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
     },
     "147:10": {
       "questID:3": 147,
@@ -10871,8 +10855,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Der HDD Käfig.",
-          "desc:8": "Der Haupt Ord zum Lagern."
+          "name:8": "HDD Cage",
+          "desc:8": "Main place to store your HDDs."
         }
       },
       "tasks:9": {
@@ -10891,7 +10875,24 @@
           "taskID:8": "bq_standard:crafting"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "refinedstorage:storage_disk",
+              "Count:3": 1,
+              "tag:10": {
+                "IdLeast:4": -6242140550155071750,
+                "IdMost:4": 6608689407404755525
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
     },
     "148:10": {
       "questID:3": 148,
@@ -10921,8 +10922,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "The Grid - a digital frontier.",
-          "desc:8": "Kennt wer die Anspielung ? ^^\n\nEgal, das Grid ist der Centrale Ort zum Items entnehmen und Lagern."
+          "name:8": "The Grid - a digital Frontier",
+          "desc:8": "Who knows the reference ? ^^\n\nNevermind, the Grid is your central place to interact with the system."
         }
       },
       "tasks:9": {
@@ -10971,8 +10972,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Der HDD Käfig.",
-          "desc:8": "Der Haupt Ort zum Lagern."
+          "name:8": "HDD Cage",
+          "desc:8": "Main place to store your HDDs."
         }
       },
       "tasks:9": {
@@ -11021,8 +11022,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Terminals - a way to collect.",
-          "desc:8": "Terminals sind die Haupt Komponenten zum Interagieren mit AE."
+          "name:8": "Terminals - a way to collect",
+          "desc:8": "The Terminal is your central place to interact with the system."
         }
       },
       "tasks:9": {
@@ -11071,8 +11072,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Kable, die verknüpfung von allem.",
-          "desc:8": "Kable sind praktische dinge, nutze sie um weiter zukommen."
+          "name:8": "Cables - We connect all toghether",
+          "desc:8": "Cables are the stable way, to connect everything."
         }
       },
       "tasks:9": {
@@ -11134,8 +11135,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Glas Kable.",
-          "desc:8": "Diese hier werden durchaus komplexer. ^^\n\nJedoch bedenke, sie haben nur eine max. Channel anzahl von: 8"
+          "name:8": "Glass Cable",
+          "desc:8": "It\u0027s more complex, in AE2. ^^\n\n§nInfo:§r Glass Cables have a maximum of 8 channels."
         }
       },
       "tasks:9": {
@@ -11197,8 +11198,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Smarte Kable.",
-          "desc:8": "Quasi gleich zu den vorherigen, jedoch mit einem Visuellen Highlight."
+          "name:8": "Smart Cable",
+          "desc:8": "Same as the Glass Cables, but now with visualizations.\n\n§nInfo:§r Smart Cables have a maximum of 8 channels."
         }
       },
       "tasks:9": {
@@ -11217,7 +11218,20 @@
           "taskID:8": "bq_standard:crafting"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "appliedenergistics2:part",
+              "Count:3": 4,
+              "OreDict:8": "",
+              "Damage:3": 56
+            }
+          }
+        }
+      }
     },
     "154:10": {
       "questID:3": 154,
@@ -11247,8 +11261,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Die Boss Kable.",
-          "desc:8": "32 Channel und sehr groß."
+          "name:8": "Boss Cables",
+          "desc:8": "Same as the Smart Cables, but bigger and with more channels.\n\n§nInfo:§r Dense Cables have a maximum of 32 channels."
         }
       },
       "tasks:9": {
@@ -11267,7 +11281,20 @@
           "taskID:8": "bq_standard:crafting"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "appliedenergistics2:part",
+              "Count:3": 4,
+              "OreDict:8": "",
+              "Damage:3": 76
+            }
+          }
+        }
+      }
     },
     "155:10": {
       "questID:3": 155,
@@ -11301,8 +11328,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "HDD oder SSD ?",
-          "desc:8": "Die Geschwindigkeit ist leider nicht bekannt, aber dank der größe durchaus unterscheidbar.\n\nPs: Du musst nicht direkt mit der größten starten, starte vielleicht erst mit 1k oder 4k."
+          "name:8": "HDD or SSD?",
+          "desc:8": "We don\u0027t know the in-game speed, but in real life, the SSD is faster.\n\n§nInfo:§r you don\u0027t need to start with the 64k cell right now."
         }
       },
       "tasks:9": {
@@ -11373,8 +11400,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "HDD oder SSD ?",
-          "desc:8": "Die Geschwindigkeit ist leider nicht bekannt, aber dank der größe durchaus unterscheidbar.\n\nPs: Du musst nicht direkt mit der größten starten, starte vielleicht erst mit 1k oder 4k."
+          "name:8": "HDD or SSD?",
+          "desc:8": "We don\u0027t know the in-game speed, but in real life, the SSD is faster.\n\n§nInfo:§r you don\u0027t need to start with the 64k cell right now."
         }
       },
       "tasks:9": {
@@ -11438,8 +11465,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Interfaces for everything.",
-          "desc:8": "Die Interface sind §6Genial§r, sie sind der Schlüssel zum Externen erfolg.\n\nBehandel sie gut und sie werden gut zu dir sein."
+          "name:8": "Interfaces for everything",
+          "desc:8": "Interfaces are awesome, they are the key to connect external things."
         }
       },
       "tasks:9": {
@@ -11495,8 +11522,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Interfaces for everything.",
-          "desc:8": "Die Interface sind §6Genial§r, sie sind der Schlüssel zum Externen erfolg.\n\nBehandel sie gut und sie werden gut zu dir sein."
+          "name:8": "Interfaces for everything",
+          "desc:8": "Interfaces are awesome, they are the key to connect external things."
         }
       },
       "tasks:9": {
@@ -11553,8 +11580,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Im - und Export.",
-          "desc:8": "Im - und Export ist so ne Sache, einige Kaufen mehr ein als sie ausgaben produzieren, aber wir hier, nutzen sie effizient und gerecht!"
+          "name:8": "Import \u0026 Export",
+          "desc:8": "Import Bus \u003d Import into the system.\n\nExport Bus \u003d Export from the system."
         }
       },
       "tasks:9": {
@@ -11622,8 +11649,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Im - und Export.",
-          "desc:8": "Im - und Export ist so ne Sache, einige Kaufen mehr ein als sie ausgaben produzieren, aber wir hier, nutzen sie effizient und gerecht!"
+          "name:8": "Import \u0026 Export",
+          "desc:8": "Import Bus \u003d Import into the system.\n\nExport Bus \u003d Export from the system."
         }
       },
       "tasks:9": {
@@ -11689,8 +11716,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Die Wrench.",
-          "desc:8": "Etwas, das RS braucht."
+          "name:8": "Wrench.",
+          "desc:8": "Refined Storage need it."
         }
       },
       "tasks:9": {
@@ -11739,8 +11766,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Facade crafting.",
-          "desc:8": "Offene Kabel haben schon style, aber bedeckt sind sie auch net schlecht."
+          "name:8": "Facade crafting",
+          "desc:8": "Uncovered Cables look good, but with Covers they look better."
         }
       },
       "tasks:9": {
@@ -11810,8 +11837,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Quartz oder Certus Wrench ?",
-          "desc:8": "Beide sind gleich, nur das aussehen und das Rezept ist anders."
+          "name:8": "Quartz or Certus Wrench?",
+          "desc:8": "Both are the same, only the look is different. (and the cost)"
         }
       },
       "tasks:9": {
@@ -11882,8 +11909,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Facades neu definiert.",
-          "desc:8": "Offene Kabel haben schon style, aber bedeckt sind sie auch net schlecht."
+          "name:8": "Facades newly defined",
+          "desc:8": "Uncovered Cables look good, but with Facades they look better."
         }
       },
       "tasks:9": {
@@ -11968,8 +11995,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Billigerer ME Controller?",
-          "desc:8": "Ein Kontroller mit max. 8 Channel insgesammt und mit weniger Strom verbrauch!"
+          "name:8": "Cheap ME Controller?",
+          "desc:8": "A Controller with max. 8 channels and less energy consumption."
         }
       },
       "tasks:9": {
@@ -12018,8 +12045,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Auto Crafting.",
-          "desc:8": "Bauen -\u003e Einstellen -\u003e Drücken.\n\nHier bei RS wird mit dem Crafter gearbeitet."
+          "name:8": "Auto Crafting",
+          "desc:8": "§nCraft -\u003e Place -\u003e Adjust -\u003e Click.§r\n\nThe \"Crafter\" is your machine in Refined Storage.\n\n§nInfo:§r you don\u0027t need to start with the 64k cell right now."
         }
       },
       "tasks:9": {
@@ -12091,8 +12118,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Show me your Power.",
-          "desc:8": "RFTools Power hat Informationen, dieses zeigt es in einem Panel an.\n\nCrafte es und schau doch mal, was es so anzeigt an jeglichen Energie Quell Blöcken."
+          "name:8": "Show me your Power",
+          "desc:8": "The Information Screen from RFTools Power is powerful.\n\nYou can connect it on §dEVERY§r Energy Cell. (okay, it §oshould§o§r)"
         }
       },
       "tasks:9": {
@@ -12141,8 +12168,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Auto Crafting.",
-          "desc:8": "Bauen -\u003e Einstellen -\u003e Drücken.\n\nHier bei AE wird mit dem Interface und dem Molecural Assembler gearbeitet."
+          "name:8": "Auto Crafting",
+          "desc:8": "§nCraft -\u003e Place -\u003e Adjust -\u003e Click.§r\n\nThe \"Molecular Assembler\" is your machine in Applied Energistics 2.\n\n§nInfo:§r you don\u0027t need to start with the 64k cell right now."
         }
       },
       "tasks:9": {
@@ -12159,6 +12186,12 @@
             },
             "1:10": {
               "id:8": "appliedenergistics2:crafting_storage_64k",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "appliedenergistics2:crafting_monitor",
               "Count:3": 1,
               "OreDict:8": "",
               "Damage:3": 0
@@ -12216,8 +12249,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Power Level 1",
-          "desc:8": "Die low - variante ist die erste, sie Speichert schon viel, aber es geht noch besser.\n\n100k RF pro low - tier Block."
+          "name:8": "Power Level I",
+          "desc:8": "Variant \"Low\" is the first, it stores a lot of §cRedstone Flux.§r\n\n§nInfo:§r 100.000 RF per \"Low - Powercell\" block."
         }
       },
       "tasks:9": {
@@ -12279,8 +12312,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Power Level 2",
-          "desc:8": "Die medium - variante ist die zweite, schon ordentlich RF pro Block, aber weiter gehts.\n\n2.500.000 RF pro medium - tier Block."
+          "name:8": "Power Level II",
+          "desc:8": "Variant \"Medium\" is the second, it stores MORE §cRedstone Flux.§r\n\n§nInfo:§r 2.500.000 RF per \"Medium - Powercell\" block."
         }
       },
       "tasks:9": {
@@ -12343,7 +12376,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Power Level 3",
-          "desc:8": "Die High - variante ist die letzte, sie Speichert am meisten.\n\n12.500.000 RF pro High - tier Block."
+          "desc:8": "Variant \"High\" is the third, it stores the MOST §cRedstone Flux.§r \n\n§n§r§nInfo:§r 12.500.000 RF per \"High - Powercell\" block."
         }
       },
       "tasks:9": {
@@ -12403,8 +12436,8 @@
           "snd_update:8": "minecraft:entity.player.levelup",
           "autoclaim:1": 0,
           "ismain:1": 0,
-          "name:8": "Verbessertes Leder.",
-          "desc:8": "Die Basis der neuen Backpacks.\n\nDenk dran: Sie sind später auch Färbbar."
+          "name:8": "Tanned Leather",
+          "desc:8": "The main resource for the Backpack.\n\n§nDon\u0027t forget:§r They are colorable."
         }
       },
       "tasks:9": {
@@ -12479,7 +12512,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Upgrade T1",
-          "desc:8": "Vergrößerung des Volumens.\n\nT1 größe -\u003e 3x9 Slots"
+          "desc:8": "Increase the capacity.\n\nT1 size -\u003e 3x9 Slots."
         }
       },
       "tasks:9": {
@@ -12542,7 +12575,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Upgrade T2",
-          "desc:8": "Vergrößerung des Volumens.\n\nT2 größe -\u003e 4x9 Slots"
+          "desc:8": "Increase the capacity.\n\nT2 size -\u003e 4x9 Slots."
         }
       },
       "tasks:9": {
@@ -12605,7 +12638,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Upgrade T3",
-          "desc:8": "Vergrößerung des Volumens.\n\nT3 größe -\u003e 5x9 Slots"
+          "desc:8": "Increase the capacity.\n\nT3 size -\u003e 5x9 Slots."
         }
       },
       "tasks:9": {
@@ -12668,7 +12701,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Upgrade T4",
-          "desc:8": "Vergrößerung des Volumens.\n\nT4 größe -\u003e 6x9 Slots"
+          "desc:8": "Increase the capacity.\n\nT4 size -\u003e 6x9 Slots."
         }
       },
       "tasks:9": {
@@ -12731,7 +12764,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Upgrade T5",
-          "desc:8": "Vergrößerung des Volumens.\n\nT5 größe -\u003e 7x9 Slots"
+          "desc:8": "Increase the capacity.\n\nT5 size -\u003e 7x9 Slots."
         }
       },
       "tasks:9": {
@@ -12794,7 +12827,7 @@
           "autoclaim:1": 0,
           "ismain:1": 0,
           "name:8": "Ender Backpack",
-          "desc:8": "Die verbindung zum eigenen sicheren Inventares - Ender Chest.\n\nEnder Backpack größe -\u003e 3x9 Slots"
+          "desc:8": "Link your private Ender Chest.\n\nSize of the Ender Backpack -\u003e 3x9 Slots."
         }
       },
       "tasks:9": {
@@ -12823,6 +12856,802 @@
               "Count:3": 1,
               "OreDict:8": "",
               "Damage:3": 3
+            }
+          }
+        }
+      }
+    },
+    "179:10": {
+      "questID:3": 179,
+      "preRequisites:11": [
+        55
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "mekanism:compressedredstone",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "First machine - first items",
+          "desc:8": "Here you learn, how to work efficiently.\n\nThe \"Metallurgic Infuser\" is so to say an \"Alloy Smelter\", it combines a material with some other.\n\nYou can increase your yield with the \"Enrichment Chamber\", so stop wasting resources."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "mekanism:machineblock",
+              "Count:3": 2,
+              "OreDict:8": "",
+              "Damage:3": 8
+            },
+            "1:10": {
+              "id:8": "mekanism:machineblock",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        },
+        "1:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 1,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:redstone",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "mekanism:compressedredstone",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "mekanism:enrichedalloy",
+              "Count:3": 8,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "minecraft:diamond",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "minecraft:coal",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "mekanism:otherdust",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 5
+            }
+          }
+        }
+      }
+    },
+    "180:10": {
+      "questID:3": 180,
+      "preRequisites:11": [
+        179
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "mekanism:cardboardbox",
+            "Count:3": 1,
+            "tag:10": {
+              "mekData:10": {}
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "More Compressed stuff.",
+          "desc:8": "Create the following Items:\n- §7Compressed Carbon\n§r- §bCompressed Diamond\n§r- §5Compressed Obsidian"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "mekanism:compressedcarbon",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "mekanism:compresseddiamond",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "mekanism:compressedobsidian",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "mekanism:cardboardbox",
+              "Count:3": 4,
+              "tag:10": {
+                "mekData:10": {}
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "181:10": {
+      "questID:3": 181,
+      "preRequisites:11": [
+        186
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "mekanism:basicblock",
+            "Count:3": 1,
+            "Damage:2": 14,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Brine for the world.",
+          "desc:8": "Brine is a liquid and its not easy to produce.\nYou need a tower, a kind of \"brewing tower\".\n\n§bWater§f + §cEnergy§f \u003d §eBrine§f\n\nThe tower is a 5x5x(x) big multi-block structure, with minimum:\n\n- 1 Controller\n- 2 Valves\n- + some blocks. "
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "mekanism:basicblock2",
+              "Count:3": 60,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "mekanism:basicblock",
+              "Count:3": 2,
+              "OreDict:8": "",
+              "Damage:3": 15
+            },
+            "2:10": {
+              "id:8": "mekanism:basicblock",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 14
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "mekanism:basicblock2",
+              "Count:3": 25,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        },
+        "1:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 1,
+          "choices:9": {
+            "0:10": {
+              "id:8": "mekanismgenerators:generator",
+              "Count:3": 4,
+              "OreDict:8": "",
+              "Damage:3": 5
+            },
+            "1:10": {
+              "id:8": "mekanism:machineblock3",
+              "Count:3": 1,
+              "tag:10": {
+                "mekData:10": {}
+              },
+              "OreDict:8": "",
+              "Damage:3": 4
+            }
+          }
+        }
+      }
+    },
+    "182:10": {
+      "questID:3": 182,
+      "preRequisites:11": [
+        179
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "mekanismgenerators:generator",
+            "Count:3": 1,
+            "Damage:2": 6,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Style \u0026 Wind.",
+          "desc:8": "The Wind Generator generates Energy.\n\nOn a higher place, he\u0027ll generate more."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "mekanismgenerators:generator",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 6
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "mekanism:energycube",
+              "Count:3": 1,
+              "tag:10": {
+                "tier:3": 0,
+                "mekData:10": {}
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "183:10": {
+      "questID:3": 183,
+      "preRequisites:11": [
+        182
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "mekanism:machineblock",
+            "Count:3": 1,
+            "Damage:2": 14,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Charging while you stand.",
+          "desc:8": "Like the charging station from IC2, simply stand on this Charge Pad to charge all your inventory containing energy items/tools."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "mekanism:machineblock",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 14
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "184:10": {
+      "questID:3": 184,
+      "preRequisites:11": [
+        179,
+        181,
+        185,
+        186
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "mekanism:machineblock2",
+            "Count:3": 1,
+            "Damage:2": 6,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Ores x5",
+          "desc:8": "The ultimate ore processing.\n\nIts a high technical construction, I can\u0027t explain it here, so please Google it.\n\n\u003d)"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "mekanism:machineblock2",
+              "Count:3": 4,
+              "OreDict:8": "",
+              "Damage:3": 4
+            },
+            "1:10": {
+              "id:8": "mekanism:machineblock2",
+              "Count:3": 4,
+              "OreDict:8": "",
+              "Damage:3": 2
+            },
+            "2:10": {
+              "id:8": "mekanism:machineblock2",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 3
+            },
+            "3:10": {
+              "id:8": "mekanism:machineblock2",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 1
+            },
+            "4:10": {
+              "id:8": "mekanism:machineblock2",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "5:10": {
+              "id:8": "mekanism:machineblock2",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 6
+            },
+            "6:10": {
+              "id:8": "mekanism:machineblock2",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 7
+            },
+            "7:10": {
+              "id:8": "mekanism:machineblock2",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 8
+            },
+            "8:10": {
+              "id:8": "mekanism:machineblock2",
+              "Count:3": 1,
+              "tag:10": {
+                "mekData:10": {}
+              },
+              "OreDict:8": "",
+              "Damage:3": 3
+            },
+            "9:10": {
+              "id:8": "mekanism:machineblock",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 9
+            },
+            "10:10": {
+              "id:8": "mekanism:machineblock",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 3
+            },
+            "11:10": {
+              "id:8": "mekanism:machineblock",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "12:10": {
+              "id:8": "mekanism:machineblock",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 10
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "mekanism:machineblock3",
+              "Count:3": 1,
+              "tag:10": {
+                "mekData:10": {}
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "mekanism:obsidiantnt",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "185:10": {
+      "questID:3": 185,
+      "preRequisites:11": [
+        186
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "mekanism:machineblock",
+            "Count:3": 1,
+            "tag:10": {
+              "mekData:10": {}
+            },
+            "Damage:2": 12,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Pumping Water.",
+          "desc:8": "These water pumps are good for the Brine production.\n\nThe can hold upgrades, are efficient and fast."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "mekanism:machineblock",
+              "Count:3": 2,
+              "tag:10": {
+                "mekData:10": {}
+              },
+              "OreDict:8": "",
+              "Damage:3": 12
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "mekanism:energyupgrade",
+              "Count:3": 8,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "mekanism:speedupgrade",
+              "Count:3": 8,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "186:10": {
+      "questID:3": 186,
+      "preRequisites:11": [
+        182,
+        183,
+        188
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "mekanism:portableteleporter",
+            "Count:3": 1,
+            "tag:10": {
+              "mekData:10": {}
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Teleport away.",
+          "desc:8": "our Journey Map can teleport you around, but we disabled it. :) (minimum on our Server)\n\nConsequently we need other teleport items, like the \"Portable Teleporter\".\n\n§nInfo:§r The frames are for a \"Portal\", I hope. ^^"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "mekanism:portableteleporter",
+              "Count:3": 1,
+              "tag:10": {
+                "mekData:10": {}
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "mekanism:machineblock",
+              "Count:3": 2,
+              "OreDict:8": "",
+              "Damage:3": 11
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "mekanism:basicblock",
+              "Count:3": 18,
+              "OreDict:8": "",
+              "Damage:3": 7
+            }
+          }
+        }
+      }
+    },
+    "187:10": {
+      "questID:3": 188,
+      "preRequisites:11": [
+        183
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "mekanism:glowpanel",
+            "Count:3": 1,
+            "Damage:2": 15,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Light up the world.",
+          "desc:8": "These Light spots are little and bright, they might be a good alternative to Torches."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 1,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "mekanism:glowpanel",
+              "Count:3": 4,
+              "OreDict:8": "",
+              "Damage:3": 15
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "mekanism:glowpanel",
+              "Count:3": 4,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "mekanism:glowpanel",
+              "Count:3": 4,
+              "OreDict:8": "",
+              "Damage:3": 11
+            },
+            "2:10": {
+              "id:8": "mekanism:glowpanel",
+              "Count:3": 4,
+              "OreDict:8": "",
+              "Damage:3": 4
+            },
+            "3:10": {
+              "id:8": "mekanism:glowpanel",
+              "Count:3": 4,
+              "OreDict:8": "",
+              "Damage:3": 1
             }
           }
         }
@@ -12896,10 +13725,10 @@
       "lineID:3": 0,
       "properties:10": {
         "betterquesting:10": {
-          "name:8": "(2) Der Schamane in Dir.",
+          "name:8": "(2) The shaman inside you",
           "bg_image:8": "",
           "bg_size:3": 256,
-          "desc:8": "Hier begibst du dich auf eine Reise, eine spirituelle Reise.\n\nDu lernst, neue Pflanzen zu züchten und ihre Kraft für dich zu nutzen.\n\nNeue mächtige Zauber zu beherrschen, die dich vor Tieren beschützen.\n\nAlles im Einklang mit der Natur."
+          "desc:8": "This is your journey, a §9spiritual§r journey.\n\nYou learn about new plants and grow together with them, to USE their power!\n\nNew experience and spells to defend yourself from the evil enemies.\n\nAnd all that in the harmony with §2§anature§r."
         }
       },
       "order:3": 4
@@ -12946,10 +13775,10 @@
       "lineID:3": 1,
       "properties:10": {
         "betterquesting:10": {
-          "name:8": "(2) Der sich nen Wolf tanzt.",
+          "name:8": "(2) The dances to a wolf",
           "bg_image:8": "",
           "bg_size:3": 256,
-          "desc:8": "Auf gehts mit der Mystik des Klanges."
+          "desc:8": "Are you ready, to go with the mystery of the sound?"
         }
       },
       "order:3": 5
@@ -12984,10 +13813,10 @@
       "lineID:3": 2,
       "properties:10": {
         "betterquesting:10": {
-          "name:8": "(1) Der Beginn.",
+          "name:8": "(1) The Beginning",
           "bg_image:8": "",
           "bg_size:3": 256,
-          "desc:8": "Du brauchst Licht. Und du brauchst einen Ofen. Fang an."
+          "desc:8": "You need Light ... and a Furnace.\n\nSo, lets start!"
         }
       },
       "order:3": 0
@@ -13064,10 +13893,10 @@
       "lineID:3": 3,
       "properties:10": {
         "betterquesting:10": {
-          "name:8": "(1) Viecherrei",
+          "name:8": "(1) Animal stuff",
           "bg_image:8": "",
           "bg_size:3": 256,
-          "desc:8": "Um zu überleben brauchst du Nahrung.\n\nDafür kannst du dir Tiere halten. Aber auch die müssen zuerst versorgt werden."
+          "desc:8": "To survive, you need food.\n\nTo deal with it, you can keep animals, however they need to be maintained."
         }
       },
       "order:3": 2
@@ -13114,10 +13943,10 @@
       "lineID:3": 4,
       "properties:10": {
         "betterquesting:10": {
-          "name:8": "(1) Wir besorgen uns Erze.",
+          "name:8": "(1) We collect some ores",
           "bg_image:8": "",
           "bg_size:3": 256,
-          "desc:8": "Wir haben Licht und auch einen tollen Ofen.\n\nAber wir brauchen noch Erze und andere Materialien.\n\nDa fangen wir jetzt mit an."
+          "desc:8": "Now we have light and a good Furnace.\n\nBut we need other ores and resources.\n\nWith this, we start §1Now§r."
         }
       },
       "order:3": 1
@@ -13126,71 +13955,65 @@
       "quests:9": {
         "0:10": {
           "size:3": 24,
-          "x:3": 6,
-          "y:3": 126,
-          "id:3": 55
-        },
-        "1:10": {
-          "size:3": 24,
           "x:3": 42,
           "y:3": 84,
           "id:3": 56
         },
-        "2:10": {
+        "1:10": {
           "size:3": 24,
           "x:3": 78,
           "y:3": 84,
           "id:3": 57
         },
-        "3:10": {
+        "2:10": {
           "size:3": 24,
           "x:3": 42,
           "y:3": 126,
           "id:3": 58
         },
-        "4:10": {
+        "3:10": {
           "size:3": 24,
           "x:3": 114,
           "y:3": 126,
           "id:3": 59
         },
-        "5:10": {
+        "4:10": {
           "size:3": 24,
           "x:3": 114,
           "y:3": 84,
           "id:3": 60
         },
-        "6:10": {
+        "5:10": {
           "size:3": 24,
           "x:3": 42,
           "y:3": 162,
           "id:3": 61
         },
-        "7:10": {
+        "6:10": {
           "size:3": 24,
           "x:3": 78,
           "y:3": 162,
           "id:3": 62
         },
-        "8:10": {
+        "7:10": {
           "size:3": 24,
           "x:3": 78,
           "y:3": 126,
           "id:3": 63
         },
-        "9:10": {
+        "8:10": {
           "size:3": 24,
           "x:3": 114,
           "y:3": 162,
           "id:3": 64
         },
-        "10:10": {
+        "9:10": {
           "size:3": 24,
           "x:3": 150,
           "y:3": 126,
           "id:3": 65
         },
-        "11:10": {
+        "10:10": {
           "size:3": 24,
           "x:3": 150,
           "y:3": 84,
@@ -13299,21 +14122,15 @@
           "x:3": 54,
           "y:3": 30,
           "id:3": 54
-        },
-        "15:10": {
-          "size:3": 24,
-          "x:3": 6,
-          "y:3": 138,
-          "id:3": 55
         }
       },
       "lineID:3": 6,
       "properties:10": {
         "betterquesting:10": {
-          "name:8": "(1) Die Magie der Blume",
+          "name:8": "(1) The magic of flowers",
           "bg_image:8": "",
           "bg_size:3": 256,
-          "desc:8": "Um an Materialien heranzukommen, gibt es noch den magischen Weg. Hier kannst du erforschen wie es geht."
+          "desc:8": "The ways in which you can collect your resources is diverse, default with meshes and interesting with §2flowers§r.\nHere you can explore how."
         }
       },
       "order:3": 3
@@ -13468,10 +14285,10 @@
       "lineID:3": 7,
       "properties:10": {
         "betterquesting:10": {
-          "name:8": "(2) Immersive Engenieering",
+          "name:8": "(2) Immersive Engineering",
           "bg_image:8": "",
           "bg_size:3": 256,
-          "desc:8": "@BluSunrize hat da was tolles erschaffen."
+          "desc:8": "Industrial revolution in a Game."
         }
       },
       "order:3": 7
@@ -13548,10 +14365,10 @@
       "lineID:3": 8,
       "properties:10": {
         "betterquesting:10": {
-          "name:8": "(2) Botania Hilfestellung",
+          "name:8": "(2) Botania Guide",
           "bg_image:8": "",
           "bg_size:3": 256,
-          "desc:8": "Magie der Pflanzen, eine Mächtige Waffe."
+          "desc:8": "A strong weapon, these harmless§o§o §6§oplants§r§r."
         }
       },
       "order:3": 8
@@ -13709,7 +14526,7 @@
           "name:8": "(2) Actually Additions",
           "bg_image:8": "",
           "bg_size:3": 256,
-          "desc:8": "@Ellpeck, ein Deutscher Modder mit einem Meisterwerk an Mod."
+          "desc:8": "Great stuff combined into one mod."
         }
       },
       "order:3": 9
@@ -13819,7 +14636,7 @@
           "name:8": "(2) Inductive Logistics",
           "bg_image:8": "",
           "bg_size:3": 256,
-          "desc:8": "Umweltfeundliche Transport- und Lagersysteme.\n\n@CD4017BE is our master."
+          "desc:8": "Harmless and friendly, the transport- and storage system from Inductive Logistics.\n\n@CD4017BE is our master."
         }
       },
       "order:3": 10
@@ -13860,10 +14677,10 @@
       "lineID:3": 11,
       "properties:10": {
         "betterquesting:10": {
-          "name:8": "(3) Immersive Railroading",
+          "name:8": "(2,5) Immersive Railroading",
           "bg_image:8": "",
           "bg_size:3": 256,
-          "desc:8": "Eine Realistische Zug Simulation zum miterleben."
+          "desc:8": "A realistic Train mod, 200% fun and a heart for model railroad lovers."
         }
       },
       "order:3": 11
@@ -14012,10 +14829,10 @@
       "lineID:3": 12,
       "properties:10": {
         "betterquesting:10": {
-          "name:8": "(3) AE oder RS ?",
+          "name:8": "(3) AE2 or RS?",
           "bg_image:8": "",
           "bg_size:3": 256,
-          "desc:8": "Das Battle der 2 Storage Systeme."
+          "desc:8": "Nothing to say here. ^^"
         }
       },
       "order:3": 12
@@ -14053,7 +14870,7 @@
           "name:8": "(3) RFTools Power",
           "bg_image:8": "",
           "bg_size:3": 256,
-          "desc:8": "Massen Energie Speicher."
+          "desc:8": "\"That\u0027s a lot of damage\" - not this time !\n\nThis is: \"a lot of energy\"."
         }
       },
       "order:3": 13
@@ -14109,10 +14926,84 @@
           "name:8": "(3) Backpacks",
           "bg_image:8": "",
           "bg_size:3": 256,
-          "desc:8": "Is zwar nicht wirklich Age 3, aber egal. ^^"
+          "desc:8": "Some stuff from earlier ages return."
         }
       },
       "order:3": 14
+    },
+    "15:10": {
+      "quests:9": {
+        "0:10": {
+          "size:3": 24,
+          "x:3": 24,
+          "y:3": 72,
+          "id:3": 55
+        },
+        "1:10": {
+          "size:3": 24,
+          "x:3": 72,
+          "y:3": 120,
+          "id:3": 179
+        },
+        "2:10": {
+          "size:3": 24,
+          "x:3": 72,
+          "y:3": 72,
+          "id:3": 180
+        },
+        "3:10": {
+          "size:3": 24,
+          "x:3": 228,
+          "y:3": 156,
+          "id:3": 181
+        },
+        "4:10": {
+          "size:3": 24,
+          "x:3": 120,
+          "y:3": 84,
+          "id:3": 182
+        },
+        "5:10": {
+          "size:3": 24,
+          "x:3": 168,
+          "y:3": 60,
+          "id:3": 183
+        },
+        "6:10": {
+          "size:3": 24,
+          "x:3": 168,
+          "y:3": 120,
+          "id:3": 184
+        },
+        "7:10": {
+          "size:3": 24,
+          "x:3": 108,
+          "y:3": 156,
+          "id:3": 185
+        },
+        "8:10": {
+          "size:3": 24,
+          "x:3": 168,
+          "y:3": 180,
+          "id:3": 186
+        },
+        "9:10": {
+          "size:3": 24,
+          "x:3": 216,
+          "y:3": 84,
+          "id:3": 188
+        }
+      },
+      "lineID:3": 15,
+      "properties:10": {
+        "betterquesting:10": {
+          "name:8": "(3) Mekanism",
+          "bg_image:8": "",
+          "bg_size:3": 256,
+          "desc:8": "High Tech, in a different version."
+        }
+      },
+      "order:3": 15
     }
   },
   "questSettings:10": {
@@ -14122,7 +15013,7 @@
       "home_anchor_y:5": 0.0,
       "livesmax:3": 10,
       "home_anchor_x:5": 0.5,
-      "editmode:1": 0,
+      "editmode:1": 1,
       "hardcore:1": 0,
       "home_image:8": "agesoftime:textures/gui/default_title.png",
       "pack_version:3": 0,
